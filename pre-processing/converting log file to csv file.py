@@ -1,7 +1,7 @@
 import csv
 
 # Open the log file for reading and the CSV file for writing
-with open('sample_log_cty_final.log', 'r') as log_file, open('log.csv', 'w', newline='') as csv_file:
+with open('datasets\sample_log_cty_final.log.txt', 'r') as log_file, open('log.csv', 'w', newline='') as csv_file:
 
     # Create a CSV writer object
     writer = csv.writer(csv_file)

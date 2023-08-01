@@ -2,7 +2,7 @@ import re
 import pandas as pd
 
 
-logfile = open("logfile.log","r")
+logfile = open("datasets\logfile.log","r")
 
 date_time = r'\d{4}-\d{2}-\d{2}\s\d{2}:\d{2}:\d{2}'
 
