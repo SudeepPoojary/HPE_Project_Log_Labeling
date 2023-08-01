@@ -1,0 +1,151 @@
+,log_no,date,time
+0,6029,2009-05-17 00:02:12,rpd: %DAEMON-: ted_client reset
+1,7563,2009-05-17 18:09:57,rpd: %DAEMON-: ted_client reset
+2,9537,2009-05-18 18:06:07,rpd: %DAEMON-: bgp_recv: peer _IP__PORT (proto): received unexpected EOF
+3,10842,2009-05-19 09:41:36,rpd: %DAEMON-: bgp_recv: peer _IP__PORT (proto): received unexpected EOF
+4,18890,2009-05-17 00:02:12,rpd: %DAEMON-: ted_client reset
+5,20424,2009-05-17 18:09:57,rpd: %DAEMON-: ted_client reset
+6,22398,2009-05-18 18:06:07,rpd: %DAEMON-: bgp_recv: peer _IP__PORT (proto): received unexpected EOF
+7,23703,2009-05-19 09:41:36,rpd: %DAEMON-: bgp_recv: peer _IP__PORT (proto): received unexpected EOF
+8,26243,2009-05-20 15:42:25,rpd: %DAEMON-: ted_client reset
+9,32251,2009-05-23 15:12:49,rpd: %DAEMON-: ted_client reset
+10,34100,2009-05-24 14:10:54,rpd: %DAEMON-: ted_client reset
+11,34677,2009-05-24 20:18:04,rpd: %DAEMON-: ted_client reset
+12,34803,2009-05-24 20:58:59,rpd: %DAEMON-: ted_client reset
+13,35765,2009-05-25 09:52:30,rpd: %DAEMON-: ted_client reset
+14,35768,2009-05-25 09:54:50,rpd: %DAEMON-: ted_client reset
+15,36075,2009-05-25 13:01:20,rpd: %DAEMON-: bgp_recv: peer _IP__PORT (proto): received unexpected EOF
+16,40126,2009-05-27 12:57:23,rpd: %DAEMON-: ted_client reset
+17,40444,2009-05-27 15:28:06,rpd: %DAEMON-: ted_client reset
+18,43405,2009-05-30 12:55:19,rpd: %DAEMON-: ted_client reset
+19,44055,2009-05-30 19:27:56,rpd: %DAEMON-: ted_client reset
+20,44124,2009-05-30 19:43:02,rpd: %DAEMON-: ted_client reset
+21,44181,2009-05-30 19:46:52,rpd: %DAEMON-: ted_client reset
+22,44258,2009-05-30 19:50:13,rpd: %DAEMON-: ted_client reset
+23,45537,2009-05-31 10:02:12,rpd: %DAEMON-: ted_client reset
+24,45627,2009-05-31 11:03:08,rpd: %DAEMON-: bgp_recv: peer _IP__PORT (proto): received unexpected EOF
+25,45721,2009-05-31 11:21:23,rpd: %DAEMON-: ted_client reset
+26,45806,2009-05-31 12:03:07,rpd: %DAEMON-: ted_client reset
+27,46437,2009-05-31 17:57:18,rpd: %DAEMON-: ted_client reset
+28,46613,2009-05-31 19:27:47,rpd: %DAEMON-: ted_client reset
+29,46889,2009-05-31 21:37:05,rpd: %DAEMON-: ted_client reset
+30,47915,2009-06-01 10:08:26,rpd: %DAEMON-: ted_client reset
+31,51900,2009-06-03 09:45:09,rpd: %DAEMON-: ted_client reset
+32,51903,2009-06-03 09:45:09,rpd: %DAEMON-: ted_client reset
+33,52907,2009-06-03 21:44:47,rpd: %DAEMON-: ted_client reset
+34,57952,2009-06-06 10:23:29,rpd: %DAEMON-: ted_client reset
+35,58024,2009-06-06 10:24:19,rpd: %DAEMON-: ted_client reset
+36,58097,2009-06-06 10:25:11,rpd: %DAEMON-: ted_client reset
+37,58170,2009-06-06 10:26:04,rpd: %DAEMON-: ted_client reset
+38,58228,2009-06-06 10:26:57,rpd: %DAEMON-: ted_client reset
+39,58296,2009-06-06 10:27:50,rpd: %DAEMON-: ted_client reset
+40,58372,2009-06-06 10:28:42,rpd: %DAEMON-: ted_client reset
+41,58444,2009-06-06 10:29:32,rpd: %DAEMON-: ted_client reset
+42,58448,2009-06-06 10:30:21,rpd: %DAEMON-: ted_client reset
+43,58502,2009-06-06 10:31:13,rpd: %DAEMON-: ted_client reset
+44,58506,"""2009-06-06 10:31:25","rpd: %DAEMON-: other_re_command_execute_by_iri:{other_re='re',iri=}"""
+45,58508,"""2009-06-06 10:31:25","rpd: %DAEMON-: mchassis_re_command_execute_status_by_iri:{hostname='re',net='AF_TNP'} rcmd_rt with RT_TABLE_DEFAULT iri table"""
+46,58546,2009-06-06 10:32:14,rpd: %DAEMON-: ted_client reset
+47,58548,"""2009-06-06 10:32:26","rpd: %DAEMON-: other_re_command_execute_by_iri:{other_re='re',iri=}"""
+48,58550,"""2009-06-06 10:32:26","rpd: %DAEMON-: mchassis_re_command_execute_status_by_iri:{hostname='re',net='AF_TNP'} rcmd_rt with RT_TABLE_DEFAULT iri table"""
+49,58592,2009-06-06 10:33:02,rpd: %DAEMON-: ted_client reset
+50,58634,2009-06-06 10:33:52,rpd: %DAEMON-: ted_client reset
+51,58691,2009-06-06 10:34:42,rpd: %DAEMON-: ted_client reset
+52,58764,2009-06-06 10:35:31,rpd: %DAEMON-: ted_client reset
+53,58790,2009-06-06 10:36:20,rpd: %DAEMON-: ted_client reset
+54,58860,2009-06-06 10:37:08,rpd: %DAEMON-: ted_client reset
+55,58935,2009-06-06 10:37:57,rpd: %DAEMON-: ted_client reset
+56,59010,2009-06-06 10:38:47,rpd: %DAEMON-: ted_client reset
+57,59087,2009-06-06 10:39:34,rpd: %DAEMON-: ted_client reset
+58,59136,2009-06-06 10:40:23,rpd: %DAEMON-: ted_client reset
+59,59184,2009-06-06 10:41:37,rpd: %DAEMON-: ted_client reset
+60,59259,2009-06-06 10:42:34,rpd: %DAEMON-: ted_client reset
+61,59334,2009-06-06 10:43:25,rpd: %DAEMON-: ted_client reset
+62,59411,2009-06-06 10:44:17,rpd: %DAEMON-: ted_client reset
+63,59427,2009-06-06 10:45:11,rpd: %DAEMON-: ted_client reset
+64,59502,2009-06-06 10:46:01,rpd: %DAEMON-: ted_client reset
+65,59579,2009-06-06 10:46:48,rpd: %DAEMON-: ted_client reset
+66,59649,2009-06-06 10:47:37,rpd: %DAEMON-: ted_client reset
+67,59719,2009-06-06 10:47:37,rpd: %DAEMON-: ted_client reset
+68,59721,2009-06-06 10:48:24,rpd: %DAEMON-: ted_client reset
+69,59725,2009-06-06 10:49:10,rpd: %DAEMON-: ted_client reset
+70,59727,2009-06-06 10:49:57,rpd: %DAEMON-: ted_client reset
+71,59874,2009-06-06 11:36:30,rpd: %DAEMON-: ted_client reset
+72,59949,2009-06-06 11:36:30,rpd: %DAEMON-: ted_client reset
+73,60086,2009-06-06 12:31:46,rpd: %DAEMON-: ted_client reset
+74,60142,2009-06-06 12:32:41,rpd: %DAEMON-: ted_client reset
+75,60182,2009-06-06 12:33:35,rpd: %DAEMON-: ted_client reset
+76,60184,"""2009-06-06 12:33:47","rpd: %DAEMON-: other_re_command_execute_by_iri:{other_re='re',iri=}"""
+77,60186,"""2009-06-06 12:33:47","rpd: %DAEMON-: mchassis_re_command_execute_status_by_iri:{hostname='re',net='AF_TNP'} rcmd_rt with RT_TABLE_DEFAULT iri table"""
+78,60225,"""2009-06-06 12:34:48","rpd: %DAEMON-: other_re_command_execute_by_iri:{other_re='re',iri=}"""
+79,60227,"""2009-06-06 12:34:48","rpd: %DAEMON-: mchassis_re_command_execute_status_by_iri:{hostname='re',net='AF_TNP'} rcmd_rt with RT_TABLE_DEFAULT iri table"""
+80,60298,2009-06-06 12:35:31,rpd: %DAEMON-: ted_client reset
+81,60331,2009-06-06 12:36:27,rpd: %DAEMON-: ted_client reset
+82,60367,2009-06-06 12:37:18,rpd: %DAEMON-: ted_client reset
+83,60511,2009-06-06 12:39:08,rpd: %DAEMON-: ted_client reset
+84,60553,2009-06-06 12:40:01,rpd: %DAEMON-: ted_client reset
+85,60608,2009-06-06 12:41:01,rpd: %DAEMON-: ted_client reset
+86,60683,2009-06-06 12:42:07,rpd: %DAEMON-: ted_client reset
+87,60707,2009-06-06 12:43:04,rpd: %DAEMON-: ted_client reset
+88,60751,2009-06-06 12:43:59,rpd: %DAEMON-: ted_client reset
+89,60814,2009-06-06 12:44:50,rpd: %DAEMON-: ted_client reset
+90,60891,2009-06-06 12:45:42,rpd: %DAEMON-: ted_client reset
+91,60893,"""2009-06-06 12:45:54","rpd: %DAEMON-: other_re_command_execute_by_iri:{other_re='re',iri=}"""
+92,60895,"""2009-06-06 12:45:54","rpd: %DAEMON-: mchassis_re_command_execute_status_by_iri:{hostname='re',net='AF_TNP'} rcmd_rt with RT_TABLE_DEFAULT iri table"""
+93,62544,2009-06-07 08:07:24,rpd: %DAEMON-: ted_client reset
+94,62548,"""2009-06-07 08:07:37","rpd: %DAEMON-: other_re_command_execute_by_iri:{other_re='re',iri=}"""
+95,62550,"""2009-06-07 08:07:37","rpd: %DAEMON-: mchassis_re_command_execute_status_by_iri:{hostname='re',net='AF_TNP'} rcmd_rt with RT_TABLE_DEFAULT iri table"""
+96,63253,2009-06-07 15:33:45,rpd: %DAEMON-: ted_client reset
+97,64682,2009-06-08 09:18:15,rpd: %DAEMON-: bgp_recv: peer _IP__PORT (proto): received unexpected EOF
+98,65496,2009-06-08 17:42:03,rpd: %DAEMON-: ted_client reset
+99,66792,2009-06-09 09:14:57,rpd: %DAEMON-: bgp_recv: peer _IP__PORT (proto): received unexpected EOF
+100,66890,2009-06-09 10:19:46,rpd: %DAEMON-: bgp_recv: peer _IP__PORT (proto): received unexpected EOF
+101,66997,2009-06-09 11:25:16,rpd: %DAEMON-: bgp_recv: peer _IP__PORT (proto): received unexpected EOF
+102,67474,2009-06-09 16:40:36,rpd: %DAEMON-: ted_client reset
+103,67923,2009-06-09 21:39:58,rpd: %DAEMON-: ted_client reset
+104,68931,2009-06-10 09:49:53,rpd: %DAEMON-: ted_client reset
+105,69614,2009-06-10 15:48:33,rpd: %DAEMON-: ted_client reset
+106,69976,2009-06-10 18:16:40,rpd: %DAEMON-: ted_client reset
+107,70331,2009-06-10 21:40:26,rpd: %DAEMON-: ted_client reset
+108,72549,2009-06-13 17:24:37,rpd: %DAEMON-: ted_client reset
+109,72647,2009-06-13 18:44:36,rpd: %DAEMON-: bgp_recv: peer _IP__PORT (External AS ): received unexpected EOF
+110,73779,2009-06-14 09:12:50,rpd: %DAEMON-: ted_client reset
+111,75229,2009-06-15 03:29:56,rpd: %DAEMON--IF: Skipped marking address fe::aa:ff:fe:ffc on ifl ae. as UP. Reason: addr is in TENTATIVE state.
+112,75230,"""2009-06-15 03:29:57","rpd: %DAEMON-: other_re_command_execute_by_iri:{other_re='re',iri=}"""
+113,75232,"""2009-06-15 03:29:57","rpd: %DAEMON-: mchassis_re_command_execute_status_by_iri:{hostname='re',net='AF_TNP'} rcmd_rt with RT_TABLE_DEFAULT iri table"""
+114,75235,"""2009-06-15 03:30:17","rpd: %DAEMON-: other_re_command_execute_by_iri:{other_re='re',iri=}"""
+115,75237,"""2009-06-15 03:30:17","rpd: %DAEMON-: mchassis_re_command_execute_status_by_iri:{hostname='re',net='AF_TNP'} rcmd_rt with RT_TABLE_DEFAULT iri table"""
+116,75238,"""2009-06-15 03:30:35","rpd: %DAEMON-: other_re_command_execute_by_iri:{other_re='re',iri=}"""
+117,75240,"""2009-06-15 03:30:36","rpd: %DAEMON-: mchassis_re_command_execute_status_by_iri:{hostname='re',net='AF_TNP'} rcmd_rt with RT_TABLE_DEFAULT iri table"""
+118,75242,"""2009-06-15 03:31:08","rpd: %DAEMON-: other_re_command_execute_by_iri:{other_re='re',iri=}"""
+119,75244,"""2009-06-15 03:31:08","rpd: %DAEMON-: mchassis_re_command_execute_status_by_iri:{hostname='re',net='AF_TNP'} rcmd_rt with RT_TABLE_DEFAULT iri table"""
+120,78116,2009-06-16 13:08:26,rpd: %DAEMON-: ted_client reset
+121,78118,"""2009-06-16 13:08:39","rpd: %DAEMON-: other_re_command_execute_by_iri:{other_re='re',iri=}"""
+122,78120,"""2009-06-16 13:08:39","rpd: %DAEMON-: mchassis_re_command_execute_status_by_iri:{hostname='re',net='AF_TNP'} rcmd_rt with RT_TABLE_DEFAULT iri table"""
+123,78563,2009-06-16 17:17:17,rpd: %DAEMON-: ted_client reset
+124,79764,2009-06-17 08:03:25,rpd: %DAEMON-: ted_client reset
+125,80105,2009-06-17 11:59:11,rpd: %DAEMON-: bgp_recv: peer _IP__PORT (proto): received unexpected EOF
+126,81590,2009-06-18 05:42:54,rpd: %DAEMON-: ted_client reset
+127,81684,2009-06-18 05:57:42,rpd: %DAEMON-: ted_client reset
+128,81949,2009-06-18 08:45:15,rpd: %DAEMON-: ted_client reset
+129,85922,2009-06-20 08:04:35,rpd: %DAEMON-: ted_client reset
+130,86419,2009-06-20 12:58:55,rpd: %DAEMON-: bgp_recv: peer _IP__PORT (proto): received unexpected EOF
+131,88684,2009-06-21 12:07:39,rpd: %DAEMON-: ted_client reset
+132,95414,2009-06-24 19:53:26,rpd: %DAEMON-: ted_client reset
+133,100810,2009-06-27 12:55:59,rpd: %DAEMON-: ted_client reset
+134,102480,2009-06-28 08:59:36,rpd: %DAEMON-: bgp_recv: peer _IP__PORT (proto): received unexpected EOF
+135,102780,2009-06-28 12:36:38,rpd: %DAEMON-: bgp_recv: peer _IP__PORT (External AS ): received unexpected EOF
+136,103069,2009-06-28 15:17:05,rpd: %DAEMON-: ted_client reset
+137,103144,2009-06-28 15:17:22,rpd: %DAEMON-: ted_client reset
+138,104725,2009-06-29 09:21:25,rpd: %DAEMON-: ted_client reset
+139,105419,2009-06-29 16:38:14,rpd: %DAEMON-: ted_client reset
+140,106057,2009-06-29 23:15:08,rpd: %DAEMON-: ted_client reset
+141,106133,2009-06-29 23:15:47,rpd: %DAEMON-: ted_client reset
+142,106792,2009-06-30 07:40:48,rpd: %DAEMON-: ted_client reset
+143,107056,2009-06-30 10:04:13,rpd: %DAEMON-: ted_client reset
+144,115182,2009-07-04 10:21:46,rpd: %DAEMON-: bgp_recv: peer _IP__PORT (proto): received unexpected EOF
+145,115196,2009-07-04 10:24:22,rpd: %DAEMON-: bgp_recv: peer _IP__PORT (proto): received unexpected EOF
+146,117253,2009-07-05 11:32:59,rpd: %DAEMON-: bgp_recv: peer _IP__PORT (proto): received unexpected EOF
+147,117521,2009-07-05 14:23:04,rpd: %DAEMON-: ted_client reset
+148,117692,2009-07-05 16:38:43,rpd: %DAEMON-: ted_client reset
+149,121082,2009-07-07 00:50:30,rpd: %DAEMON-: ted_client reset

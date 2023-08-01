@@ -1,0 +1,11 @@
+,log_no,date,time
+0,32176,"""2009-05-23 15:11:52","rpd: %DAEMON-: bgp_pp_recv: rejecting connection from _IP__PORT (External AS ), peer in state Idle"""
+1,34276,"""2009-05-24 16:13:38","rpd: %DAEMON-: bgp_pp_recv: rejecting connection from _IP__PORT (External AS ), peer in state OpenConfirm"""
+2,34298,"""2009-05-24 16:26:25","rpd: %DAEMON-: bgp_pp_recv: rejecting connection from _IP__PORT (External AS ), peer in state OpenConfirm"""
+3,34573,"""2009-05-24 19:59:28","rpd: %DAEMON-: bgp_pp_recv: rejecting connection from _IP__PORT (External AS ), peer in state OpenConfirm"""
+4,89606,"""2009-06-21 23:26:54","rpd: %DAEMON-: bgp_pp_recv: rejecting connection from _IP__PORT (External AS ), peer in state OpenConfirm"""
+5,89609,"""2009-06-21 23:26:58","rpd: %DAEMON-: bgp_pp_recv: rejecting connection from _IP__PORT (External AS ), peer in state OpenConfirm"""
+6,89611,"""2009-06-21 23:27:00","rpd: %DAEMON-: bgp_pp_recv: rejecting connection from _IP__PORT (External AS ), peer in state OpenConfirm"""
+7,89614,"""2009-06-21 23:27:08","rpd: %DAEMON-: bgp_pp_recv: rejecting connection from _IP__PORT (External AS ), peer in state OpenConfirm"""
+8,89702,"""2009-06-22 00:22:49","rpd: %DAEMON-: bgp_pp_recv: rejecting connection from _IP__PORT (External AS ), peer in state OpenConfirm"""
+9,119328,"""2009-07-06 05:31:17","rpd: %DAEMON-: bgp_pp_recv: rejecting connection from _IP__PORT (External AS ), peer in state OpenConfirm"""

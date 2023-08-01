@@ -9,7 +9,6 @@ import time
 from memory_profiler import memory_usage
 import psutil
 import csv
-import os
 
 start_time = time.time()
 # get the absolute path of the current file

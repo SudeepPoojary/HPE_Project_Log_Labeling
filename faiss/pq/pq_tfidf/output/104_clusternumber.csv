@@ -1,0 +1,205 @@
+,log_no,date,time
+0,118592,2009-07-06 01:42:33,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes CBF-chan-tx-
+1,118593,2009-07-06 01:42:33,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes      ==> CBF-chan-rx-.
+2,118594,2009-07-06 01:42:33,chassisd[]: %DAEMON--HSL: Primitive bringup finished CBF-chan-tx-
+3,118595,2009-07-06 01:42:33,chassisd[]: %DAEMON--HSL: Primitive bringup finished      ==> CBF-chan-rx- initialization.
+4,118596,2009-07-06 01:42:33,chassisd[]: %DAEMON--HSL: Primitive bringup Started Training on TX CBF-chan-tx-
+5,118597,2009-07-06 01:42:33,chassisd[]: %DAEMON--HSL: Primitive trained word alignment on RX CBF-chan-rx-.
+6,118598,2009-07-06 01:42:33,chassisd[]: %DAEMON--HSL: Primitive trained channel bonding on RX CBF-chan-rx-.
+7,118599,2009-07-06 01:42:33,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes CBF-chan-tx-
+8,118600,2009-07-06 01:42:33,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes      ==> CBF-chan-rx-.
+9,118601,2009-07-06 01:42:33,chassisd[]: %DAEMON--HSL: Primitive bringup finished CBF-chan-tx-
+10,118602,2009-07-06 01:42:33,chassisd[]: %DAEMON--HSL: Primitive bringup finished      ==> CBF-chan-rx- initialization.
+11,118603,2009-07-06 01:42:33,chassisd[]: %DAEMON--HSL: Primitive bringup Started Training on TX CBF-chan-tx-
+12,118604,2009-07-06 01:42:33,chassisd[]: %DAEMON--HSL: Primitive trained word alignment on RX CBF-chan-rx-.
+13,118605,2009-07-06 01:42:33,chassisd[]: %DAEMON--HSL: Primitive trained channel bonding on RX CBF-chan-rx-.
+14,118606,2009-07-06 01:42:33,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes CBF-chan-tx-
+15,118607,2009-07-06 01:42:33,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes      ==> CBF-chan-rx-.
+16,118608,2009-07-06 01:42:33,chassisd[]: %DAEMON--HSL: Primitive bringup finished CBF-chan-tx-
+17,118609,2009-07-06 01:42:33,chassisd[]: %DAEMON--HSL: Primitive bringup finished      ==> CBF-chan-rx- initialization.
+18,118610,2009-07-06 01:42:33,chassisd[]: %DAEMON--HSL: Primitive bringup Started Training on TX CBF-chan-tx-
+19,118611,2009-07-06 01:42:33,chassisd[]: %DAEMON--HSL: Primitive trained word alignment on RX CBF-chan-rx-.
+20,118612,2009-07-06 01:42:33,chassisd[]: %DAEMON--HSL: Primitive trained channel bonding on RX CBF-chan-rx-.
+21,118613,2009-07-06 01:42:33,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes CBF-chan-tx-
+22,118614,2009-07-06 01:42:33,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes      ==> CBF-chan-rx-.
+23,118615,2009-07-06 01:42:33,chassisd[]: %DAEMON--HSL: Primitive bringup finished CBF-chan-tx-
+24,118616,2009-07-06 01:42:33,chassisd[]: %DAEMON--HSL: Primitive bringup finished      ==> CBF-chan-rx- initialization.
+25,118617,2009-07-06 01:42:33,chassisd[]: %DAEMON--HSL: Primitive bringup Started Training on TX CBF-chan-tx-
+26,118618,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive trained word alignment on RX CBF-chan-rx-.
+27,118619,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive trained channel bonding on RX CBF-chan-rx-.
+28,118620,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes CBF-chan-tx-
+29,118621,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes      ==> CBF-chan-rx-.
+30,118622,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished CBF-chan-tx-
+31,118623,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished      ==> CBF-chan-rx- initialization.
+32,118624,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive bringup Started Training on TX CBF-chan-tx-
+33,118625,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive trained word alignment on RX CBF-chan-rx-.
+34,118626,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive trained channel bonding on RX CBF-chan-rx-.
+35,118627,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes CBF-chan-tx-
+36,118628,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes      ==> CBF-chan-rx-.
+37,118629,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished CBF-chan-tx-
+38,118630,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished      ==> CBF-chan-rx- initialization.
+39,118631,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive bringup Started Training on TX CBF-chan-tx-
+40,118632,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive trained word alignment on RX CBF-chan-rx-.
+41,118633,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive trained channel bonding on RX CBF-chan-rx-.
+42,118634,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes CBF-chan-tx-
+43,118635,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes      ==> CBF-chan-rx-.
+44,118636,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished CBF-chan-tx-
+45,118637,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished      ==> CBF-chan-rx- initialization.
+46,118638,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive bringup Started Training on TX CBF-chan-tx-
+47,118639,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive trained word alignment on RX CBF-chan-rx-.
+48,118640,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive trained channel bonding on RX CBF-chan-rx-.
+49,118641,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes CBF-chan-tx-
+50,118642,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes      ==> CBF-chan-rx-.
+51,118643,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished CBF-chan-tx-
+52,118644,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished      ==> CBF-chan-rx- initialization.
+53,118645,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive bringup Started Training on TX CBF-chan-tx-
+54,118646,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive trained word alignment on RX CBF-chan-rx-.
+55,118647,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive trained channel bonding on RX CBF-chan-rx-.
+56,118648,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes CBF-chan-tx-
+57,118649,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes      ==> CBF-chan-rx-.
+58,118650,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished CBF-chan-tx-
+59,118651,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished      ==> CBF-chan-rx- initialization.
+60,118652,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive bringup Started Training on TX CBF-chan-tx-
+61,118653,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive trained word alignment on RX CBF-chan-rx-.
+62,118654,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive trained channel bonding on RX CBF-chan-rx-.
+63,118655,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes CBF-chan-tx-
+64,118656,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes      ==> CBF-chan-rx-.
+65,118657,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished CBF-chan-tx-
+66,118658,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished      ==> CBF-chan-rx- initialization.
+67,118659,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive bringup Started Training on TX CBF-chan-tx-
+68,118660,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive trained word alignment on RX CBF-chan-rx-.
+69,118661,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive trained channel bonding on RX CBF-chan-rx-.
+70,118662,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes CBF-chan-tx-
+71,118663,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes      ==> CBF-chan-rx-.
+72,118664,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished CBF-chan-tx-
+73,118665,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished      ==> CBF-chan-rx- initialization.
+74,118666,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive bringup Started Training on TX CBF-chan-tx-
+75,118667,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive trained word alignment on RX CBF-chan-rx-.
+76,118668,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive trained channel bonding on RX CBF-chan-rx-.
+77,118669,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes CBF-chan-tx-
+78,118670,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes      ==> CBF-chan-rx-.
+79,118671,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished CBF-chan-tx-
+80,118672,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished      ==> CBF-chan-rx- initialization.
+81,118673,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive bringup Started Training on TX CBF-chan-tx-
+82,118674,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive trained word alignment on RX CBF-chan-rx-.
+83,118675,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive trained channel bonding on RX CBF-chan-rx-.
+84,118676,2009-07-06 01:42:38,chassisd[]: %DAEMON--HSL: Primitive bringup issued start_command on TX CBF-chan-tx-
+85,118677,2009-07-06 01:42:38,chassisd[]: %DAEMON--HSL: Primitive bringup enables TX CBF-chan-tx-
+86,118678,2009-07-06 01:42:38,chassisd[]: %DAEMON--HSL: Primitive bringup issued start_command on TX CBF-chan-tx-
+87,118679,2009-07-06 01:42:38,chassisd[]: %DAEMON--HSL: Primitive bringup enables TX CBF-chan-tx-
+88,118680,2009-07-06 01:42:38,chassisd[]: %DAEMON--HSL: Primitive bringup issued start_command on TX CBF-chan-tx-
+89,118681,2009-07-06 01:42:38,chassisd[]: %DAEMON--HSL: Primitive bringup enables TX CBF-chan-tx-
+90,118682,2009-07-06 01:42:38,chassisd[]: %DAEMON--HSL: Primitive bringup issued start_command on TX CBF-chan-tx-
+91,118683,2009-07-06 01:42:38,chassisd[]: %DAEMON--HSL: Primitive bringup enables TX CBF-chan-tx-
+92,118684,2009-07-06 01:42:38,chassisd[]: %DAEMON--HSL: Primitive bringup issued start_command on TX CBF-chan-tx-
+93,118685,2009-07-06 01:42:38,chassisd[]: %DAEMON--HSL: Primitive bringup enables TX CBF-chan-tx-
+94,118686,2009-07-06 01:42:38,chassisd[]: %DAEMON--HSL: Primitive bringup issued start_command on TX CBF-chan-tx-
+95,118687,2009-07-06 01:42:38,chassisd[]: %DAEMON--HSL: Primitive bringup enables TX CBF-chan-tx-
+96,118688,2009-07-06 01:42:38,chassisd[]: %DAEMON--HSL: Primitive bringup issued start_command on TX CBF-chan-tx-
+97,118689,2009-07-06 01:42:38,chassisd[]: %DAEMON--HSL: Primitive bringup enables TX CBF-chan-tx-
+98,118690,2009-07-06 01:42:38,chassisd[]: %DAEMON--HSL: Primitive bringup issued start_command on TX CBF-chan-tx-
+99,118691,2009-07-06 01:42:38,chassisd[]: %DAEMON--HSL: Primitive bringup enables TX CBF-chan-tx-
+100,118692,2009-07-06 01:42:38,chassisd[]: %DAEMON--HSL: Primitive bringup issued start_command on TX CBF-chan-tx-
+101,118693,2009-07-06 01:42:38,chassisd[]: %DAEMON--HSL: Primitive bringup enables TX CBF-chan-tx-
+102,118694,2009-07-06 01:42:38,chassisd[]: %DAEMON--HSL: Primitive bringup issued start_command on TX CBF-chan-tx-
+103,118825,2009-07-06 01:44:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes CBF-chan-tx-
+104,118826,2009-07-06 01:44:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes      ==> CBF-chan-rx-.
+105,118827,2009-07-06 01:44:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished CBF-chan-tx-
+106,118828,2009-07-06 01:44:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished      ==> CBF-chan-rx- initialization.
+107,118829,2009-07-06 01:44:34,chassisd[]: %DAEMON--HSL: Primitive bringup Started Training on TX CBF-chan-tx-
+108,118830,2009-07-06 01:44:34,chassisd[]: %DAEMON--HSL: Primitive trained word alignment on RX CBF-chan-rx-.
+109,118831,2009-07-06 01:44:34,chassisd[]: %DAEMON--HSL: Primitive trained channel bonding on RX CBF-chan-rx-.
+110,118832,2009-07-06 01:44:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes CBF-chan-tx-
+111,118833,2009-07-06 01:44:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes      ==> CBF-chan-rx-.
+112,118834,2009-07-06 01:44:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished CBF-chan-tx-
+113,118835,2009-07-06 01:44:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished      ==> CBF-chan-rx- initialization.
+114,118836,2009-07-06 01:44:34,chassisd[]: %DAEMON--HSL: Primitive bringup Started Training on TX CBF-chan-tx-
+115,118837,2009-07-06 01:44:34,chassisd[]: %DAEMON--HSL: Primitive trained word alignment on RX CBF-chan-rx-.
+116,118838,2009-07-06 01:44:34,chassisd[]: %DAEMON--HSL: Primitive trained channel bonding on RX CBF-chan-rx-.
+117,118839,2009-07-06 01:44:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes CBF-chan-tx-
+118,118840,2009-07-06 01:44:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes      ==> CBF-chan-rx-.
+119,118841,2009-07-06 01:44:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished CBF-chan-tx-
+120,118842,2009-07-06 01:44:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished      ==> CBF-chan-rx- initialization.
+121,118843,2009-07-06 01:44:34,chassisd[]: %DAEMON--HSL: Primitive bringup Started Training on TX CBF-chan-tx-
+122,118844,2009-07-06 01:44:34,chassisd[]: %DAEMON--HSL: Primitive trained word alignment on RX CBF-chan-rx-.
+123,118845,2009-07-06 01:44:34,chassisd[]: %DAEMON--HSL: Primitive trained channel bonding on RX CBF-chan-rx-.
+124,118846,2009-07-06 01:44:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes CBF-chan-tx-
+125,118847,2009-07-06 01:44:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes      ==> CBF-chan-rx-.
+126,118848,2009-07-06 01:44:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished CBF-chan-tx-
+127,118849,2009-07-06 01:44:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished      ==> CBF-chan-rx- initialization.
+128,118850,2009-07-06 01:44:34,chassisd[]: %DAEMON--HSL: Primitive bringup Started Training on TX CBF-chan-tx-
+129,118851,2009-07-06 01:44:34,chassisd[]: %DAEMON--HSL: Primitive trained word alignment on RX CBF-chan-rx-.
+130,118852,2009-07-06 01:44:34,chassisd[]: %DAEMON--HSL: Primitive trained channel bonding on RX CBF-chan-rx-.
+131,118853,2009-07-06 01:44:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes CBF-chan-tx-
+132,118854,2009-07-06 01:44:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes      ==> CBF-chan-rx-.
+133,118855,2009-07-06 01:44:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished CBF-chan-tx-
+134,118856,2009-07-06 01:44:34,chassisd[]: %DAEMON--HSL: Primitive trained word alignment on RX CBF-chan-rx-.
+135,118857,2009-07-06 01:44:34,chassisd[]: %DAEMON--HSL: Primitive trained channel bonding on RX CBF-chan-rx-.
+136,118858,2009-07-06 01:44:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes CBF-chan-tx-
+137,118859,2009-07-06 01:44:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes      ==> CBF-chan-rx-.
+138,118860,2009-07-06 01:44:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished CBF-chan-tx-
+139,118861,2009-07-06 01:44:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished      ==> CBF-chan-rx- initialization.
+140,118862,2009-07-06 01:44:34,chassisd[]: %DAEMON--HSL: Primitive bringup Started Training on TX CBF-chan-tx-
+141,118863,2009-07-06 01:44:35,chassisd[]: %DAEMON--HSL: Primitive trained word alignment on RX CBF-chan-rx-.
+142,118864,2009-07-06 01:44:35,chassisd[]: %DAEMON--HSL: Primitive trained channel bonding on RX CBF-chan-rx-.
+143,118865,2009-07-06 01:44:35,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes CBF-chan-tx-
+144,118866,2009-07-06 01:44:35,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes      ==> CBF-chan-rx-.
+145,118867,2009-07-06 01:44:35,chassisd[]: %DAEMON--HSL: Primitive bringup finished CBF-chan-tx-
+146,118868,2009-07-06 01:44:35,chassisd[]: %DAEMON--HSL: Primitive bringup finished      ==> CBF-chan-rx- initialization.
+147,118869,2009-07-06 01:44:35,chassisd[]: %DAEMON--HSL: Primitive bringup Started Training on TX CBF-chan-tx-
+148,118870,2009-07-06 01:44:35,chassisd[]: %DAEMON--HSL: Primitive trained word alignment on RX CBF-chan-rx-.
+149,118871,2009-07-06 01:44:35,chassisd[]: %DAEMON--HSL: Primitive trained channel bonding on RX CBF-chan-rx-.
+150,118872,2009-07-06 01:44:35,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes CBF-chan-tx-
+151,118873,2009-07-06 01:44:35,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes      ==> CBF-chan-rx-.
+152,118874,2009-07-06 01:44:35,chassisd[]: %DAEMON--HSL: Primitive bringup finished CBF-chan-tx-
+153,118875,2009-07-06 01:44:35,chassisd[]: %DAEMON--HSL: Primitive bringup finished      ==> CBF-chan-rx- initialization.
+154,118876,2009-07-06 01:44:35,chassisd[]: %DAEMON--HSL: Primitive bringup Started Training on TX CBF-chan-tx-
+155,118877,2009-07-06 01:44:35,chassisd[]: %DAEMON--HSL: Primitive trained word alignment on RX CBF-chan-rx-.
+156,118878,2009-07-06 01:44:35,chassisd[]: %DAEMON--HSL: Primitive trained channel bonding on RX CBF-chan-rx-.
+157,118879,2009-07-06 01:44:35,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes CBF-chan-tx-
+158,118880,2009-07-06 01:44:35,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes      ==> CBF-chan-rx-.
+159,118881,2009-07-06 01:44:35,chassisd[]: %DAEMON--HSL: Primitive bringup finished CBF-chan-tx-
+160,118882,2009-07-06 01:44:35,chassisd[]: %DAEMON--HSL: Primitive bringup finished      ==> CBF-chan-rx- initialization.
+161,118883,2009-07-06 01:44:35,chassisd[]: %DAEMON--HSL: Primitive bringup Started Training on TX CBF-chan-tx-
+162,118884,2009-07-06 01:44:35,chassisd[]: %DAEMON--HSL: Primitive trained word alignment on RX CBF-chan-rx-.
+163,118885,2009-07-06 01:44:35,chassisd[]: %DAEMON--HSL: Primitive trained channel bonding on RX CBF-chan-rx-.
+164,118886,2009-07-06 01:44:35,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes CBF-chan-tx-
+165,118887,2009-07-06 01:44:35,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes      ==> CBF-chan-rx-.
+166,118888,2009-07-06 01:44:35,chassisd[]: %DAEMON--HSL: Primitive bringup finished CBF-chan-tx-
+167,118889,2009-07-06 01:44:35,chassisd[]: %DAEMON--HSL: Primitive bringup finished      ==> CBF-chan-rx- initialization.
+168,118890,2009-07-06 01:44:35,chassisd[]: %DAEMON--HSL: Primitive bringup Started Training on TX CBF-chan-tx-
+169,118891,2009-07-06 01:44:35,chassisd[]: %DAEMON--HSL: Primitive trained word alignment on RX CBF-chan-rx-.
+170,118892,2009-07-06 01:44:35,chassisd[]: %DAEMON--HSL: Primitive trained channel bonding on RX CBF-chan-rx-.
+171,118893,2009-07-06 01:44:35,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes CBF-chan-tx-
+172,118894,2009-07-06 01:44:35,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes      ==> CBF-chan-rx-.
+173,118895,2009-07-06 01:44:35,chassisd[]: %DAEMON--HSL: Primitive bringup finished CBF-chan-tx-
+174,118896,2009-07-06 01:44:35,chassisd[]: %DAEMON--HSL: Primitive bringup finished      ==> CBF-chan-rx- initialization.
+175,118897,2009-07-06 01:44:35,chassisd[]: %DAEMON--HSL: Primitive bringup Started Training on TX CBF-chan-tx-
+176,118898,2009-07-06 01:44:35,chassisd[]: %DAEMON--HSL: Primitive trained word alignment on RX CBF-chan-rx-.
+177,118899,2009-07-06 01:44:35,chassisd[]: %DAEMON--HSL: Primitive trained channel bonding on RX CBF-chan-rx-.
+178,118900,2009-07-06 01:44:35,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes CBF-chan-tx-
+179,118901,2009-07-06 01:44:35,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes      ==> CBF-chan-rx-.
+180,118902,2009-07-06 01:44:35,chassisd[]: %DAEMON--HSL: Primitive bringup finished CBF-chan-tx-
+181,118903,2009-07-06 01:44:35,chassisd[]: %DAEMON--HSL: Primitive bringup finished      ==> CBF-chan-rx- initialization.
+182,118904,2009-07-06 01:44:35,chassisd[]: %DAEMON--HSL: Primitive bringup Started Training on TX CBF-chan-tx-
+183,118905,2009-07-06 01:44:35,chassisd[]: %DAEMON--HSL: Primitive trained word alignment on RX CBF-chan-rx-.
+184,118906,2009-07-06 01:44:35,chassisd[]: %DAEMON--HSL: Primitive trained channel bonding on RX CBF-chan-rx-.
+185,118909,2009-07-06 01:44:39,chassisd[]: %DAEMON--HSL: Primitive bringup issued start_command on TX CBF-chan-tx-
+186,118910,2009-07-06 01:44:39,chassisd[]: %DAEMON--HSL: Primitive bringup enables TX CBF-chan-tx-
+187,118911,2009-07-06 01:44:39,chassisd[]: %DAEMON--HSL: Primitive bringup issued start_command on TX CBF-chan-tx-
+188,118912,2009-07-06 01:44:39,chassisd[]: %DAEMON--HSL: Primitive bringup enables TX CBF-chan-tx-
+189,118913,2009-07-06 01:44:39,chassisd[]: %DAEMON--HSL: Primitive bringup issued start_command on TX CBF-chan-tx-
+190,118914,2009-07-06 01:44:39,chassisd[]: %DAEMON--HSL: Primitive bringup enables TX CBF-chan-tx-
+191,118915,2009-07-06 01:44:39,chassisd[]: %DAEMON--HSL: Primitive bringup issued start_command on TX CBF-chan-tx-
+192,118916,2009-07-06 01:44:39,chassisd[]: %DAEMON--HSL: Primitive bringup enables TX CBF-chan-tx-
+193,118917,2009-07-06 01:44:39,chassisd[]: %DAEMON--HSL: Primitive bringup issued start_command on TX CBF-chan-tx-
+194,118918,2009-07-06 01:44:39,chassisd[]: %DAEMON--HSL: Primitive bringup enables TX CBF-chan-tx-
+195,118919,2009-07-06 01:44:39,chassisd[]: %DAEMON--HSL: Primitive bringup issued start_command on TX CBF-chan-tx-
+196,118920,2009-07-06 01:44:39,chassisd[]: %DAEMON--HSL: Primitive bringup enables TX CBF-chan-tx-
+197,118921,2009-07-06 01:44:39,chassisd[]: %DAEMON--HSL: Primitive bringup issued start_command on TX CBF-chan-tx-
+198,118922,2009-07-06 01:44:39,chassisd[]: %DAEMON--HSL: Primitive bringup enables TX CBF-chan-tx-
+199,118923,2009-07-06 01:44:39,chassisd[]: %DAEMON--HSL: Primitive bringup issued start_command on TX CBF-chan-tx-
+200,118924,2009-07-06 01:44:39,chassisd[]: %DAEMON--HSL: Primitive bringup enables TX CBF-chan-tx-
+201,118925,2009-07-06 01:44:39,chassisd[]: %DAEMON--HSL: Primitive bringup issued start_command on TX CBF-chan-tx-
+202,118926,2009-07-06 01:44:39,chassisd[]: %DAEMON--HSL: Primitive bringup enables TX CBF-chan-tx-
+203,118927,2009-07-06 01:44:39,chassisd[]: %DAEMON--HSL: Primitive bringup issued start_command on TX CBF-chan-tx-

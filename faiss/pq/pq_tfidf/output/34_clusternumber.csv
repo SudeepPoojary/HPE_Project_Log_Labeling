@@ -1,0 +1,6 @@
+,log_no,date,time
+0,42646,2009-05-30 05:12:17,rpd: %DAEMON-: bgp_handle_notify:: NOTIFICATION received from _IP__PORT (Internal AS ): code  (Open Message Error)
+1,42647,2009-05-30 05:12:22,rpd: %DAEMON-: bgp_handle_notify:: NOTIFICATION received from _IP__PORT (Internal AS ): code  (Open Message Error)
+2,116591,2009-07-05 03:18:04,rpd: %DAEMON-: bgp_handle_notify:: NOTIFICATION received from _IP__PORT (Internal AS ): code  (Open Message Error)
+3,116592,2009-07-05 03:18:08,rpd: %DAEMON-: bgp_handle_notify:: NOTIFICATION received from _IP__PORT (Internal AS ): code  (Open Message Error)
+4,116593,2009-07-05 03:18:13,rpd: %DAEMON-: bgp_handle_notify:: NOTIFICATION received from _IP__PORT (Internal AS ): code  (Open Message Error)

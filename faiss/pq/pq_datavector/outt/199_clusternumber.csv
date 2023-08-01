@@ -1,0 +1,9 @@
+,log_no,date,time
+0,31885,2009-05-23 11:46:01,rpd: %DAEMON-: bgp_recv: read from peer _IP__PORT (External AS ) failed: Unknown error:
+1,42673,2009-05-30 05:29:03,rpd: %DAEMON-: bgp_recv: read from peer _IP__PORT (proto) failed: Unknown error: -
+2,43200,2009-05-30 11:29:23,rpd: %DAEMON-: bgp_recv: read from peer _IP__PORT (External AS ) failed: Unknown error:
+3,43201,2009-05-30 11:29:44,rpd: %DAEMON-: bgp_recv: read from peer _IP__PORT (External AS ) failed: Unknown error:
+4,45831,2009-05-31 12:21:06,rpd: %DAEMON-: bgp_recv: read from peer _IP__PORT (External AS ) failed: Unknown error:
+5,90585,2009-06-22 10:46:12,rpd: %DAEMON-: bgp_recv: read from peer _IP__PORT (External AS ) failed: Unknown error:
+6,90586,2009-06-22 10:46:24,rpd: %DAEMON-: bgp_recv: read from peer _IP__PORT (External AS ) failed: Unknown error:
+7,107287,2009-06-30 12:43:38,rpd: %DAEMON-: bgp_recv: read from peer _IP__PORT (External AS ) failed: Unknown error:

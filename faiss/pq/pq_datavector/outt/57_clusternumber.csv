@@ -1,0 +1,72 @@
+,log_no,date,time
+0,118592,2009-07-06 01:42:33,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes CBF-chan-tx-
+1,118593,2009-07-06 01:42:33,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes      ==> CBF-chan-rx-.
+2,118595,2009-07-06 01:42:33,chassisd[]: %DAEMON--HSL: Primitive bringup finished      ==> CBF-chan-rx- initialization.
+3,118599,2009-07-06 01:42:33,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes CBF-chan-tx-
+4,118600,2009-07-06 01:42:33,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes      ==> CBF-chan-rx-.
+5,118602,2009-07-06 01:42:33,chassisd[]: %DAEMON--HSL: Primitive bringup finished      ==> CBF-chan-rx- initialization.
+6,118606,2009-07-06 01:42:33,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes CBF-chan-tx-
+7,118607,2009-07-06 01:42:33,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes      ==> CBF-chan-rx-.
+8,118609,2009-07-06 01:42:33,chassisd[]: %DAEMON--HSL: Primitive bringup finished      ==> CBF-chan-rx- initialization.
+9,118613,2009-07-06 01:42:33,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes CBF-chan-tx-
+10,118614,2009-07-06 01:42:33,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes      ==> CBF-chan-rx-.
+11,118616,2009-07-06 01:42:33,chassisd[]: %DAEMON--HSL: Primitive bringup finished      ==> CBF-chan-rx- initialization.
+12,118620,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes CBF-chan-tx-
+13,118621,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes      ==> CBF-chan-rx-.
+14,118623,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished      ==> CBF-chan-rx- initialization.
+15,118627,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes CBF-chan-tx-
+16,118628,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes      ==> CBF-chan-rx-.
+17,118630,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished      ==> CBF-chan-rx- initialization.
+18,118634,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes CBF-chan-tx-
+19,118635,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes      ==> CBF-chan-rx-.
+20,118637,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished      ==> CBF-chan-rx- initialization.
+21,118641,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes CBF-chan-tx-
+22,118642,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes      ==> CBF-chan-rx-.
+23,118644,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished      ==> CBF-chan-rx- initialization.
+24,118648,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes CBF-chan-tx-
+25,118649,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes      ==> CBF-chan-rx-.
+26,118651,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished      ==> CBF-chan-rx- initialization.
+27,118655,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes CBF-chan-tx-
+28,118656,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes      ==> CBF-chan-rx-.
+29,118658,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished      ==> CBF-chan-rx- initialization.
+30,118662,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes CBF-chan-tx-
+31,118663,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes      ==> CBF-chan-rx-.
+32,118665,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished      ==> CBF-chan-rx- initialization.
+33,118669,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes CBF-chan-tx-
+34,118670,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes      ==> CBF-chan-rx-.
+35,118672,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished      ==> CBF-chan-rx- initialization.
+36,118825,2009-07-06 01:44:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes CBF-chan-tx-
+37,118826,2009-07-06 01:44:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes      ==> CBF-chan-rx-.
+38,118828,2009-07-06 01:44:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished      ==> CBF-chan-rx- initialization.
+39,118832,2009-07-06 01:44:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes CBF-chan-tx-
+40,118833,2009-07-06 01:44:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes      ==> CBF-chan-rx-.
+41,118835,2009-07-06 01:44:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished      ==> CBF-chan-rx- initialization.
+42,118839,2009-07-06 01:44:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes CBF-chan-tx-
+43,118840,2009-07-06 01:44:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes      ==> CBF-chan-rx-.
+44,118842,2009-07-06 01:44:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished      ==> CBF-chan-rx- initialization.
+45,118846,2009-07-06 01:44:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes CBF-chan-tx-
+46,118847,2009-07-06 01:44:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes      ==> CBF-chan-rx-.
+47,118849,2009-07-06 01:44:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished      ==> CBF-chan-rx- initialization.
+48,118853,2009-07-06 01:44:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes CBF-chan-tx-
+49,118854,2009-07-06 01:44:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes      ==> CBF-chan-rx-.
+50,118858,2009-07-06 01:44:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes CBF-chan-tx-
+51,118859,2009-07-06 01:44:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes      ==> CBF-chan-rx-.
+52,118861,2009-07-06 01:44:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished      ==> CBF-chan-rx- initialization.
+53,118865,2009-07-06 01:44:35,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes CBF-chan-tx-
+54,118866,2009-07-06 01:44:35,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes      ==> CBF-chan-rx-.
+55,118868,2009-07-06 01:44:35,chassisd[]: %DAEMON--HSL: Primitive bringup finished      ==> CBF-chan-rx- initialization.
+56,118872,2009-07-06 01:44:35,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes CBF-chan-tx-
+57,118873,2009-07-06 01:44:35,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes      ==> CBF-chan-rx-.
+58,118875,2009-07-06 01:44:35,chassisd[]: %DAEMON--HSL: Primitive bringup finished      ==> CBF-chan-rx- initialization.
+59,118879,2009-07-06 01:44:35,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes CBF-chan-tx-
+60,118880,2009-07-06 01:44:35,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes      ==> CBF-chan-rx-.
+61,118882,2009-07-06 01:44:35,chassisd[]: %DAEMON--HSL: Primitive bringup finished      ==> CBF-chan-rx- initialization.
+62,118886,2009-07-06 01:44:35,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes CBF-chan-tx-
+63,118887,2009-07-06 01:44:35,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes      ==> CBF-chan-rx-.
+64,118889,2009-07-06 01:44:35,chassisd[]: %DAEMON--HSL: Primitive bringup finished      ==> CBF-chan-rx- initialization.
+65,118893,2009-07-06 01:44:35,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes CBF-chan-tx-
+66,118894,2009-07-06 01:44:35,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes      ==> CBF-chan-rx-.
+67,118896,2009-07-06 01:44:35,chassisd[]: %DAEMON--HSL: Primitive bringup finished      ==> CBF-chan-rx- initialization.
+68,118900,2009-07-06 01:44:35,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes CBF-chan-tx-
+69,118901,2009-07-06 01:44:35,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes      ==> CBF-chan-rx-.
+70,118903,2009-07-06 01:44:35,chassisd[]: %DAEMON--HSL: Primitive bringup finished      ==> CBF-chan-rx- initialization.

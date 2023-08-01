@@ -1,0 +1,12 @@
+,log_no,date,time
+0,58507,"""2009-06-06 10:31:25","rpd: %DAEMON-: mchassis_re_command_execute_status_by_iri:{hostname='re',iri=,cmdbuf='mv -f /mfs/var/tmp/tag_restart.db /mfs/var/db/tag_restart.db'}"""
+1,58549,"""2009-06-06 10:32:26","rpd: %DAEMON-: mchassis_re_command_execute_status_by_iri:{hostname='re',iri=,cmdbuf='mv -f /mfs/var/tmp/tag_restart.db /mfs/var/db/tag_restart.db'}"""
+2,60185,"""2009-06-06 12:33:47","rpd: %DAEMON-: mchassis_re_command_execute_status_by_iri:{hostname='re',iri=,cmdbuf='mv -f /mfs/var/tmp/tag_restart.db /mfs/var/db/tag_restart.db'}"""
+3,60226,"""2009-06-06 12:34:48","rpd: %DAEMON-: mchassis_re_command_execute_status_by_iri:{hostname='re',iri=,cmdbuf='mv -f /mfs/var/tmp/tag_restart.db /mfs/var/db/tag_restart.db'}"""
+4,60894,"""2009-06-06 12:45:54","rpd: %DAEMON-: mchassis_re_command_execute_status_by_iri:{hostname='re',iri=,cmdbuf='mv -f /mfs/var/tmp/tag_restart.db /mfs/var/db/tag_restart.db'}"""
+5,62549,"""2009-06-07 08:07:37","rpd: %DAEMON-: mchassis_re_command_execute_status_by_iri:{hostname='re',iri=,cmdbuf='mv -f /mfs/var/tmp/tag_restart.db /mfs/var/db/tag_restart.db'}"""
+6,75231,"""2009-06-15 03:29:57","rpd: %DAEMON-: mchassis_re_command_execute_status_by_iri:{hostname='re',iri=,cmdbuf='mv -f /mfs/var/tmp/tag_restart.db /mfs/var/db/tag_restart.db'}"""
+7,75236,"""2009-06-15 03:30:17","rpd: %DAEMON-: mchassis_re_command_execute_status_by_iri:{hostname='re',iri=,cmdbuf='mv -f /mfs/var/tmp/tag_restart.db /mfs/var/db/tag_restart.db'}"""
+8,75239,"""2009-06-15 03:30:35","rpd: %DAEMON-: mchassis_re_command_execute_status_by_iri:{hostname='re',iri=,cmdbuf='mv -f /mfs/var/tmp/tag_restart.db /mfs/var/db/tag_restart.db'}"""
+9,75243,"""2009-06-15 03:31:08","rpd: %DAEMON-: mchassis_re_command_execute_status_by_iri:{hostname='re',iri=,cmdbuf='mv -f /mfs/var/tmp/tag_restart.db /mfs/var/db/tag_restart.db'}"""
+10,78119,"""2009-06-16 13:08:39","rpd: %DAEMON-: mchassis_re_command_execute_status_by_iri:{hostname='re',iri=,cmdbuf='mv -f /mfs/var/tmp/tag_restart.db /mfs/var/db/tag_restart.db'}"""

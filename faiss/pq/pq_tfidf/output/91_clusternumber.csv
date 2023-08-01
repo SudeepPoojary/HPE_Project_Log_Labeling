@@ -1,0 +1,3 @@
+,log_no,date,time
+0,123625,2009-07-08 07:48:03,chassisd[]: %DAEMON--HSL: HSL register CBF id _HEXNUM_   cookie _HEXNUM_
+1,123712,2009-07-08 07:48:12,chassisd[]: %DAEMON--HSL: HSL register CBF id _HEXNUM_   cookie _HEXNUM_

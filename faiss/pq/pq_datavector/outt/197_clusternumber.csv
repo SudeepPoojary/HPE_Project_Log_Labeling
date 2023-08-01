@@ -1,0 +1,24 @@
+,log_no,date,time
+0,123616,2009-07-08 07:48:02,chassisd[]: %DAEMON-: XFCHIP[]: Secondary ic handle created successfully xfchip_pre_init
+1,123617,2009-07-08 07:48:02,chassisd[]: %DAEMON-: XFCHIP[]: Primary ic handle created successfully xfchip_pre_init
+2,123618,2009-07-08 07:48:03,chassisd[]: %DAEMON-: XFCHIP[]: Hostif registered successfully xfchip_pre_init
+3,123619,2009-07-08 07:48:03,chassisd[]: %DAEMON-: XFCHIP[]: Rcbusif registered successfully xfchip_pre_init
+4,123620,2009-07-08 07:48:03,chassisd[]: %DAEMON-: XFCHIP[]: Hostif pcie endpoint configured successfully during reconnect xfchip_pre_init
+5,123621,2009-07-08 07:48:03,chassisd[]: %DAEMON-: XFCHIP[]: PCIE handle created successfully xfchip_pre_init
+6,123622,2009-07-08 07:48:03,chassisd[]: %DAEMON-: XFCHIP[]: Initializing jspec module xfchip_pre_init
+7,123623,2009-07-08 07:48:03,chassisd[]: %DAEMON-: XFCHIP[]: jtad id read/check successful xfchip_pre_init: part num = _HEXNUM_
+8,123624,2009-07-08 07:48:03,chassisd[]: %DAEMON-: XFCHIP[]: Jspec registered successfully xfchip_pre_init
+9,123696,2009-07-08 07:48:03,chassisd[]: %DAEMON-: XFCHIP[]: Secondary ic handle created successfully xfchip_pre_init
+10,123697,2009-07-08 07:48:04,chassisd[]: %DAEMON-: XFCHIP[]: Primary ic handle created successfully xfchip_pre_init
+11,123698,2009-07-08 07:48:04,chassisd[]: %DAEMON-: XFCHIP[]: Hostif registered successfully xfchip_pre_init
+12,123699,2009-07-08 07:48:04,chassisd[]: %DAEMON-: XFCHIP[]: Rcbusif registered successfully xfchip_pre_init
+13,123700,2009-07-08 07:48:04,chassisd[]: %DAEMON-: XFCHIP[]: Hostif pcie endpoint configured successfully during reconnect xfchip_pre_init
+14,123703,2009-07-08 07:48:06,chassisd[]: %DAEMON-: XFCHIP[]: Secondary ic handle created successfully xfchip_pre_init
+15,123704,2009-07-08 07:48:12,chassisd[]: %DAEMON-: XFCHIP[]: Secondary ic handle created successfully xfchip_pre_init
+16,123705,2009-07-08 07:48:12,chassisd[]: %DAEMON-: XFCHIP[]: Primary ic handle created successfully xfchip_pre_init
+17,123706,2009-07-08 07:48:12,chassisd[]: %DAEMON-: XFCHIP[]: Hostif registered successfully xfchip_pre_init
+18,123707,2009-07-08 07:48:12,chassisd[]: %DAEMON-: XFCHIP[]: Rcbusif registered successfully xfchip_pre_init
+19,123708,2009-07-08 07:48:12,chassisd[]: %DAEMON-: XFCHIP[]: Hostif pcie endpoint configured successfully during reconnect xfchip_pre_init
+20,123709,2009-07-08 07:48:12,chassisd[]: %DAEMON-: XFCHIP[]: PCIE handle created successfully xfchip_pre_init
+21,123710,2009-07-08 07:48:12,chassisd[]: %DAEMON-: XFCHIP[]: jtad id read/check successful xfchip_pre_init: part num = _HEXNUM_
+22,123711,2009-07-08 07:48:12,chassisd[]: %DAEMON-: XFCHIP[]: Jspec registered successfully xfchip_pre_init

@@ -1,0 +1,417 @@
+,log_no,date,time
+0,6030,2009-05-17 00:02:12,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+1,7564,2009-05-17 18:09:58,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+2,9032,"""2009-05-18 12:12:50","rpd: %DAEMON-: bgp_bfd_callback:: NOTIFICATION sent to _IP__PORT (External AS ): code  (Cease) subcode  (Hard Reset), Reason: BFD Session Down"""
+3,9537,2009-05-18 18:06:07,rpd: %DAEMON-: bgp_recv: peer _IP__PORT (proto): received unexpected EOF
+4,10842,2009-05-19 09:41:36,rpd: %DAEMON-: bgp_recv: peer _IP__PORT (proto): received unexpected EOF
+5,18891,2009-05-17 00:02:12,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+6,20425,2009-05-17 18:09:58,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+7,21893,"""2009-05-18 12:12:50","rpd: %DAEMON-: bgp_bfd_callback:: NOTIFICATION sent to _IP__PORT (External AS ): code  (Cease) subcode  (Hard Reset), Reason: BFD Session Down"""
+8,22398,2009-05-18 18:06:07,rpd: %DAEMON-: bgp_recv: peer _IP__PORT (proto): received unexpected EOF
+9,23703,2009-05-19 09:41:36,rpd: %DAEMON-: bgp_recv: peer _IP__PORT (proto): received unexpected EOF
+10,26244,2009-05-20 15:42:26,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+11,31885,2009-05-23 11:46:01,rpd: %DAEMON-: bgp_recv: read from peer _IP__PORT (External AS ) failed: Unknown error:
+12,32252,2009-05-23 15:12:51,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+13,32512,"""2009-05-23 18:29:58","rpd: %DAEMON-: bgp_bfd_callback:: NOTIFICATION sent to _IP__PORT (External AS ): code  (Cease) subcode  (Hard Reset), Reason: BFD Session Down"""
+14,32515,"""2009-05-23 18:30:32","rpd: %DAEMON-: bgp_bfd_callback:: NOTIFICATION sent to _IP__PORT (External AS ): code  (Cease) subcode  (Hard Reset), Reason: BFD Session Down"""
+15,32574,"""2009-05-23 19:17:21","rpd: %DAEMON-: bgp_bfd_callback:: NOTIFICATION sent to _IP__PORT (External AS ): code  (Cease) subcode  (Hard Reset), Reason: BFD Session Down"""
+16,34261,"""2009-05-24 16:03:51","rpd: %DAEMON-: bgp_bfd_callback:: NOTIFICATION sent to _IP__PORT (External AS ): code  (Cease) subcode  (Hard Reset), Reason: BFD Session Down"""
+17,34280,"""2009-05-24 16:14:38","rpd: %DAEMON-: bgp_bfd_callback:: NOTIFICATION sent to _IP__PORT (External AS ): code  (Cease) subcode  (Hard Reset), Reason: BFD Session Down"""
+18,34315,"""2009-05-24 16:39:09","rpd: %DAEMON-: bgp_bfd_callback:: NOTIFICATION sent to _IP__PORT (External AS ): code  (Cease) subcode  (Hard Reset), Reason: BFD Session Down"""
+19,34566,"""2009-05-24 19:58:52","rpd: %DAEMON-: bgp_bfd_callback:: NOTIFICATION sent to _IP__PORT (External AS ): code  (Cease) subcode  (Hard Reset), Reason: BFD Session Down"""
+20,34678,2009-05-24 20:18:05,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+21,34804,2009-05-24 20:58:59,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+22,36075,2009-05-25 13:01:20,rpd: %DAEMON-: bgp_recv: peer _IP__PORT (proto): received unexpected EOF
+23,40127,2009-05-27 12:57:23,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+24,40445,2009-05-27 15:28:06,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+25,42673,2009-05-30 05:29:03,rpd: %DAEMON-: bgp_recv: read from peer _IP__PORT (proto) failed: Unknown error: -
+26,43181,"""2009-05-30 11:19:46","rpd: %DAEMON-: bgp_bfd_callback:: NOTIFICATION sent to _IP__PORT (External AS ): code  (Cease) subcode  (Hard Reset), Reason: BFD Session Down"""
+27,43184,"""2009-05-30 11:20:35","rpd: %DAEMON-: bgp_bfd_callback:: NOTIFICATION sent to _IP__PORT (External AS ): code  (Cease) subcode  (Hard Reset), Reason: BFD Session Down"""
+28,43200,2009-05-30 11:29:23,rpd: %DAEMON-: bgp_recv: read from peer _IP__PORT (External AS ) failed: Unknown error:
+29,43201,2009-05-30 11:29:44,rpd: %DAEMON-: bgp_recv: read from peer _IP__PORT (External AS ) failed: Unknown error:
+30,43406,2009-05-30 12:55:20,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+31,44056,2009-05-30 19:27:56,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+32,44125,2009-05-30 19:43:03,chassisd[]: %DAEMON--CHASSISD_HOST_TEMP_READ: Error reading host temperature sensor
+33,44126,2009-05-30 19:43:03,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+34,44182,2009-05-30 19:46:54,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+35,44259,2009-05-30 19:50:14,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+36,45538,2009-05-31 10:02:12,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+37,45627,2009-05-31 11:03:08,rpd: %DAEMON-: bgp_recv: peer _IP__PORT (proto): received unexpected EOF
+38,45722,2009-05-31 11:21:24,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+39,45807,2009-05-31 12:03:07,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+40,45831,2009-05-31 12:21:06,rpd: %DAEMON-: bgp_recv: read from peer _IP__PORT (External AS ) failed: Unknown error:
+41,46438,2009-05-31 17:57:19,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+42,46614,2009-05-31 19:27:48,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+43,46890,2009-05-31 21:37:05,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+44,47746,"""2009-06-01 08:29:15","rpd: %DAEMON-: bgp_bfd_callback:: NOTIFICATION sent to _IP__PORT (External AS ): code  (Cease) subcode  (Hard Reset), Reason: BFD Session Down"""
+45,47917,2009-06-01 10:08:28,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+46,52909,2009-06-03 21:44:48,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+47,57953,2009-06-06 10:23:29,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+48,58025,2009-06-06 10:24:19,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+49,58098,2009-06-06 10:25:12,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+50,58171,2009-06-06 10:26:05,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+51,58229,2009-06-06 10:26:57,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+52,58297,2009-06-06 10:27:51,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+53,58373,2009-06-06 10:28:44,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+54,58445,2009-06-06 10:29:32,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+55,58449,2009-06-06 10:30:21,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+56,58503,2009-06-06 10:31:13,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+57,58506,"""2009-06-06 10:31:25","rpd: %DAEMON-: other_re_command_execute_by_iri:{other_re='re',iri=}"""
+58,58507,"""2009-06-06 10:31:25","rpd: %DAEMON-: mchassis_re_command_execute_status_by_iri:{hostname='re',iri=,cmdbuf='mv -f /mfs/var/tmp/tag_restart.db /mfs/var/db/tag_restart.db'}"""
+59,58508,"""2009-06-06 10:31:25","rpd: %DAEMON-: mchassis_re_command_execute_status_by_iri:{hostname='re',net='AF_TNP'} rcmd_rt with RT_TABLE_DEFAULT iri table"""
+60,58547,2009-06-06 10:32:14,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+61,58548,"""2009-06-06 10:32:26","rpd: %DAEMON-: other_re_command_execute_by_iri:{other_re='re',iri=}"""
+62,58549,"""2009-06-06 10:32:26","rpd: %DAEMON-: mchassis_re_command_execute_status_by_iri:{hostname='re',iri=,cmdbuf='mv -f /mfs/var/tmp/tag_restart.db /mfs/var/db/tag_restart.db'}"""
+63,58550,"""2009-06-06 10:32:26","rpd: %DAEMON-: mchassis_re_command_execute_status_by_iri:{hostname='re',net='AF_TNP'} rcmd_rt with RT_TABLE_DEFAULT iri table"""
+64,58593,2009-06-06 10:33:02,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+65,58635,2009-06-06 10:33:53,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+66,58692,2009-06-06 10:34:42,chassisd[]: %DAEMON--CHASSISD_HOST_TEMP_READ: Error reading host temperature sensor
+67,58693,2009-06-06 10:34:44,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+68,58765,2009-06-06 10:35:32,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+69,58791,2009-06-06 10:36:21,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+70,58861,2009-06-06 10:37:08,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+71,58936,2009-06-06 10:37:57,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+72,59011,2009-06-06 10:38:48,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+73,59088,2009-06-06 10:39:34,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+74,59137,2009-06-06 10:40:23,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+75,59185,2009-06-06 10:41:38,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+76,59260,2009-06-06 10:42:34,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+77,59335,2009-06-06 10:43:26,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+78,59412,2009-06-06 10:44:19,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+79,59428,2009-06-06 10:45:11,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+80,59503,2009-06-06 10:46:01,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+81,59580,2009-06-06 10:46:48,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+82,59650,2009-06-06 10:47:38,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+83,59720,2009-06-06 10:47:38,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+84,59722,2009-06-06 10:48:25,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+85,59726,2009-06-06 10:49:10,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+86,59728,2009-06-06 10:49:57,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+87,59875,2009-06-06 11:36:31,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+88,59950,2009-06-06 11:36:31,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+89,60087,2009-06-06 12:31:46,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+90,60143,2009-06-06 12:32:42,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+91,60183,2009-06-06 12:33:35,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+92,60184,"""2009-06-06 12:33:47","rpd: %DAEMON-: other_re_command_execute_by_iri:{other_re='re',iri=}"""
+93,60185,"""2009-06-06 12:33:47","rpd: %DAEMON-: mchassis_re_command_execute_status_by_iri:{hostname='re',iri=,cmdbuf='mv -f /mfs/var/tmp/tag_restart.db /mfs/var/db/tag_restart.db'}"""
+94,60186,"""2009-06-06 12:33:47","rpd: %DAEMON-: mchassis_re_command_execute_status_by_iri:{hostname='re',net='AF_TNP'} rcmd_rt with RT_TABLE_DEFAULT iri table"""
+95,60224,2009-06-06 12:34:37,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+96,60225,"""2009-06-06 12:34:48","rpd: %DAEMON-: other_re_command_execute_by_iri:{other_re='re',iri=}"""
+97,60226,"""2009-06-06 12:34:48","rpd: %DAEMON-: mchassis_re_command_execute_status_by_iri:{hostname='re',iri=,cmdbuf='mv -f /mfs/var/tmp/tag_restart.db /mfs/var/db/tag_restart.db'}"""
+98,60227,"""2009-06-06 12:34:48","rpd: %DAEMON-: mchassis_re_command_execute_status_by_iri:{hostname='re',net='AF_TNP'} rcmd_rt with RT_TABLE_DEFAULT iri table"""
+99,60299,2009-06-06 12:35:32,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+100,60332,2009-06-06 12:36:28,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+101,60368,2009-06-06 12:37:19,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+102,60442,2009-06-06 12:38:11,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+103,60512,2009-06-06 12:39:08,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+104,60554,2009-06-06 12:40:01,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+105,60609,2009-06-06 12:41:01,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+106,60684,2009-06-06 12:42:07,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+107,60708,2009-06-06 12:43:04,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+108,60750,2009-06-06 12:43:59,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+109,60815,2009-06-06 12:44:50,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+110,60892,2009-06-06 12:45:44,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+111,60893,"""2009-06-06 12:45:54","rpd: %DAEMON-: other_re_command_execute_by_iri:{other_re='re',iri=}"""
+112,60894,"""2009-06-06 12:45:54","rpd: %DAEMON-: mchassis_re_command_execute_status_by_iri:{hostname='re',iri=,cmdbuf='mv -f /mfs/var/tmp/tag_restart.db /mfs/var/db/tag_restart.db'}"""
+113,60895,"""2009-06-06 12:45:54","rpd: %DAEMON-: mchassis_re_command_execute_status_by_iri:{hostname='re',net='AF_TNP'} rcmd_rt with RT_TABLE_DEFAULT iri table"""
+114,62545,2009-06-07 08:07:25,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+115,62548,"""2009-06-07 08:07:37","rpd: %DAEMON-: other_re_command_execute_by_iri:{other_re='re',iri=}"""
+116,62549,"""2009-06-07 08:07:37","rpd: %DAEMON-: mchassis_re_command_execute_status_by_iri:{hostname='re',iri=,cmdbuf='mv -f /mfs/var/tmp/tag_restart.db /mfs/var/db/tag_restart.db'}"""
+117,62550,"""2009-06-07 08:07:37","rpd: %DAEMON-: mchassis_re_command_execute_status_by_iri:{hostname='re',net='AF_TNP'} rcmd_rt with RT_TABLE_DEFAULT iri table"""
+118,63254,2009-06-07 15:33:46,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+119,64682,2009-06-08 09:18:15,rpd: %DAEMON-: bgp_recv: peer _IP__PORT (proto): received unexpected EOF
+120,65497,2009-06-08 17:42:03,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+121,66792,2009-06-09 09:14:57,rpd: %DAEMON-: bgp_recv: peer _IP__PORT (proto): received unexpected EOF
+122,66890,2009-06-09 10:19:46,rpd: %DAEMON-: bgp_recv: peer _IP__PORT (proto): received unexpected EOF
+123,66997,2009-06-09 11:25:16,rpd: %DAEMON-: bgp_recv: peer _IP__PORT (proto): received unexpected EOF
+124,67475,2009-06-09 16:40:36,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+125,67924,2009-06-09 21:39:58,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+126,68932,2009-06-10 09:49:53,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+127,69615,2009-06-10 15:48:34,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+128,69977,2009-06-10 18:16:43,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+129,70332,2009-06-10 21:40:26,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+130,72550,2009-06-13 17:24:37,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+131,72647,2009-06-13 18:44:36,rpd: %DAEMON-: bgp_recv: peer _IP__PORT (External AS ): received unexpected EOF
+132,73780,2009-06-14 09:12:50,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+133,75229,2009-06-15 03:29:56,rpd: %DAEMON--IF: Skipped marking address fe::aa:ff:fe:ffc on ifl ae. as UP. Reason: addr is in TENTATIVE state.
+134,75230,"""2009-06-15 03:29:57","rpd: %DAEMON-: other_re_command_execute_by_iri:{other_re='re',iri=}"""
+135,75231,"""2009-06-15 03:29:57","rpd: %DAEMON-: mchassis_re_command_execute_status_by_iri:{hostname='re',iri=,cmdbuf='mv -f /mfs/var/tmp/tag_restart.db /mfs/var/db/tag_restart.db'}"""
+136,75232,"""2009-06-15 03:29:57","rpd: %DAEMON-: mchassis_re_command_execute_status_by_iri:{hostname='re',net='AF_TNP'} rcmd_rt with RT_TABLE_DEFAULT iri table"""
+137,75235,"""2009-06-15 03:30:17","rpd: %DAEMON-: other_re_command_execute_by_iri:{other_re='re',iri=}"""
+138,75236,"""2009-06-15 03:30:17","rpd: %DAEMON-: mchassis_re_command_execute_status_by_iri:{hostname='re',iri=,cmdbuf='mv -f /mfs/var/tmp/tag_restart.db /mfs/var/db/tag_restart.db'}"""
+139,75237,"""2009-06-15 03:30:17","rpd: %DAEMON-: mchassis_re_command_execute_status_by_iri:{hostname='re',net='AF_TNP'} rcmd_rt with RT_TABLE_DEFAULT iri table"""
+140,75238,"""2009-06-15 03:30:35","rpd: %DAEMON-: other_re_command_execute_by_iri:{other_re='re',iri=}"""
+141,75239,"""2009-06-15 03:30:35","rpd: %DAEMON-: mchassis_re_command_execute_status_by_iri:{hostname='re',iri=,cmdbuf='mv -f /mfs/var/tmp/tag_restart.db /mfs/var/db/tag_restart.db'}"""
+142,75240,"""2009-06-15 03:30:36","rpd: %DAEMON-: mchassis_re_command_execute_status_by_iri:{hostname='re',net='AF_TNP'} rcmd_rt with RT_TABLE_DEFAULT iri table"""
+143,75242,"""2009-06-15 03:31:08","rpd: %DAEMON-: other_re_command_execute_by_iri:{other_re='re',iri=}"""
+144,75243,"""2009-06-15 03:31:08","rpd: %DAEMON-: mchassis_re_command_execute_status_by_iri:{hostname='re',iri=,cmdbuf='mv -f /mfs/var/tmp/tag_restart.db /mfs/var/db/tag_restart.db'}"""
+145,75244,"""2009-06-15 03:31:08","rpd: %DAEMON-: mchassis_re_command_execute_status_by_iri:{hostname='re',net='AF_TNP'} rcmd_rt with RT_TABLE_DEFAULT iri table"""
+146,78117,2009-06-16 13:08:27,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+147,78118,"""2009-06-16 13:08:39","rpd: %DAEMON-: other_re_command_execute_by_iri:{other_re='re',iri=}"""
+148,78119,"""2009-06-16 13:08:39","rpd: %DAEMON-: mchassis_re_command_execute_status_by_iri:{hostname='re',iri=,cmdbuf='mv -f /mfs/var/tmp/tag_restart.db /mfs/var/db/tag_restart.db'}"""
+149,78120,"""2009-06-16 13:08:39","rpd: %DAEMON-: mchassis_re_command_execute_status_by_iri:{hostname='re',net='AF_TNP'} rcmd_rt with RT_TABLE_DEFAULT iri table"""
+150,78564,2009-06-16 17:17:18,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+151,79765,2009-06-17 08:03:26,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+152,80105,2009-06-17 11:59:11,rpd: %DAEMON-: bgp_recv: peer _IP__PORT (proto): received unexpected EOF
+153,81591,2009-06-18 05:42:55,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+154,81683,2009-06-18 05:57:42,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+155,81950,2009-06-18 08:45:15,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+156,86010,"""2009-06-20 08:53:48","rpd: %DAEMON-: bgp_bfd_callback:: NOTIFICATION sent to _IP__PORT (External AS ): code  (Cease) subcode  (Hard Reset), Reason: BFD Session Down"""
+157,86419,2009-06-20 12:58:55,rpd: %DAEMON-: bgp_recv: peer _IP__PORT (proto): received unexpected EOF
+158,87550,"""2009-06-21 00:47:14","rpd: %DAEMON-: bgp_bfd_callback:: NOTIFICATION sent to _IP__PORT (External AS ): code  (Cease) subcode  (Hard Reset), Reason: BFD Session Down"""
+159,88685,2009-06-21 12:07:39,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+160,89581,"""2009-06-21 23:13:58","rpd: %DAEMON-: bgp_bfd_callback:: NOTIFICATION sent to _IP__PORT (External AS ): code  (Cease) subcode  (Hard Reset), Reason: BFD Session Down"""
+161,89658,"""2009-06-22 00:00:40","rpd: %DAEMON-: bgp_bfd_callback:: NOTIFICATION sent to _IP__PORT (External AS ): code  (Cease) subcode  (Hard Reset), Reason: BFD Session Down"""
+162,89693,"""2009-06-22 00:21:30","rpd: %DAEMON-: bgp_bfd_callback:: NOTIFICATION sent to _IP__PORT (External AS ): code  (Cease) subcode  (Hard Reset), Reason: BFD Session Down"""
+163,90585,2009-06-22 10:46:12,rpd: %DAEMON-: bgp_recv: read from peer _IP__PORT (External AS ) failed: Unknown error:
+164,90586,2009-06-22 10:46:24,rpd: %DAEMON-: bgp_recv: read from peer _IP__PORT (External AS ) failed: Unknown error:
+165,95415,2009-06-24 19:53:27,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+166,100811,2009-06-27 12:56:00,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+167,102480,2009-06-28 08:59:36,rpd: %DAEMON-: bgp_recv: peer _IP__PORT (proto): received unexpected EOF
+168,102780,2009-06-28 12:36:38,rpd: %DAEMON-: bgp_recv: peer _IP__PORT (External AS ): received unexpected EOF
+169,103070,2009-06-28 15:17:06,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+170,103145,2009-06-28 15:17:22,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+171,104726,2009-06-29 09:21:26,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+172,104854,"""2009-06-29 11:00:27","rpd: %DAEMON-: bgp_bfd_callback:: NOTIFICATION sent to _IP__PORT (External AS ): code  (Cease) subcode  (Hard Reset), Reason: BFD Session Down"""
+173,104859,"""2009-06-29 11:03:19","rpd: %DAEMON-: bgp_bfd_callback:: NOTIFICATION sent to _IP__PORT (External AS ): code  (Cease) subcode  (Hard Reset), Reason: BFD Session Down"""
+174,106058,2009-06-29 23:15:08,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+175,106134,2009-06-29 23:15:47,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+176,106793,2009-06-30 07:40:48,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+177,107057,2009-06-30 10:04:14,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+178,107072,"""2009-06-30 10:17:11","rpd: %DAEMON-: bgp_bfd_callback:: NOTIFICATION sent to _IP__PORT (External AS ): code  (Cease) subcode  (Hard Reset), Reason: BFD Session Down"""
+179,107287,2009-06-30 12:43:38,rpd: %DAEMON-: bgp_recv: read from peer _IP__PORT (External AS ) failed: Unknown error:
+180,115182,2009-07-04 10:21:46,rpd: %DAEMON-: bgp_recv: peer _IP__PORT (proto): received unexpected EOF
+181,115196,2009-07-04 10:24:22,rpd: %DAEMON-: bgp_recv: peer _IP__PORT (proto): received unexpected EOF
+182,117253,2009-07-05 11:32:59,rpd: %DAEMON-: bgp_recv: peer _IP__PORT (proto): received unexpected EOF
+183,118397,2009-07-06 00:38:24,chassisd[]: %DAEMON--CHASSISD_BLOWERS_SPEED: Fans and impellers are now running at normal speed
+184,118405,2009-07-06 00:42:06,chassisd[]: %DAEMON--CHASSISD_BLOWERS_SPEED_FULL: Fans and impellers being set to full speed [system warm]
+185,118481,"""2009-07-06 01:41:10","chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entStateOperEnabled (entPhysicalIndex , entStateAdmin , entStateAlarm )"""
+186,118482,"""2009-07-06 01:41:10","chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entStateOperEnabled (entPhysicalIndex , entStateAdmin , entStateAlarm )"""
+187,118483,2009-07-06 01:41:10,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for lc-//
+188,118484,2009-07-06 01:41:10,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for lc-//
+189,118485,2009-07-06 01:41:10,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for pfh-//
+190,118486,2009-07-06 01:41:10,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for pfe-//
+191,118487,2009-07-06 01:41:10,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for pfe-//
+192,118696,"""2009-07-06 01:42:40","chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entStateOperEnabled (entPhysicalIndex , entStateAdmin , entStateAlarm )"""
+193,118697,2009-07-06 01:42:40,chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entConfigChanged
+194,118699,"""2009-07-06 01:42:40","chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entStateOperEnabled (entPhysicalIndex , entStateAdmin , entStateAlarm )"""
+195,118701,"""2009-07-06 01:42:40","chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entStateOperEnabled (entPhysicalIndex , entStateAdmin , entStateAlarm )"""
+196,118703,"""2009-07-06 01:42:40","chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entStateOperEnabled (entPhysicalIndex , entStateAdmin , entStateAlarm )"""
+197,118704,2009-07-06 01:42:45,chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entConfigChanged
+198,118707,2009-07-06 01:42:58,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: create_pics: created interface device for xe-//
+199,118708,2009-07-06 01:42:58,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: create_pics: created interface device for xe-//
+200,118710,"""2009-07-06 01:43:11","chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entStateOperEnabled (entPhysicalIndex , entStateAdmin , entStateAlarm )"""
+201,118711,"""2009-07-06 01:43:11","chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entStateOperEnabled (entPhysicalIndex , entStateAdmin , entStateAlarm )"""
+202,118712,2009-07-06 01:43:11,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for lc-//
+203,118713,2009-07-06 01:43:11,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for lc-//
+204,118714,2009-07-06 01:43:11,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for pfh-//
+205,118715,2009-07-06 01:43:11,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for pfe-//
+206,118716,2009-07-06 01:43:11,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for pfe-//
+207,118821,2009-07-06 01:43:15,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: create_pics: created interface device for et-//
+208,118822,2009-07-06 01:43:15,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: create_pics: created interface device for xe-//
+209,118823,2009-07-06 01:43:15,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: create_pics: created interface device for xe-//
+210,118824,2009-07-06 01:43:16,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: create_pics: created interface device for et-//
+211,118929,"""2009-07-06 01:44:41","chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entStateOperEnabled (entPhysicalIndex , entStateAdmin , entStateAlarm )"""
+212,118930,2009-07-06 01:44:41,chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entConfigChanged
+213,118932,"""2009-07-06 01:44:41","chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entStateOperEnabled (entPhysicalIndex , entStateAdmin , entStateAlarm )"""
+214,118934,"""2009-07-06 01:44:41","chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entStateOperEnabled (entPhysicalIndex , entStateAdmin , entStateAlarm )"""
+215,118936,"""2009-07-06 01:44:41","chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entStateOperEnabled (entPhysicalIndex , entStateAdmin , entStateAlarm )"""
+216,118937,2009-07-06 01:44:46,chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entConfigChanged
+217,118938,2009-07-06 01:44:59,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: create_pics: created interface device for xe-//
+218,118939,2009-07-06 01:44:59,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: create_pics: created interface device for xe-//
+219,118940,2009-07-06 01:45:16,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: create_pics: created interface device for et-//
+220,118941,2009-07-06 01:45:16,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: create_pics: created interface device for xe-//
+221,118942,2009-07-06 01:45:16,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: create_pics: created interface device for xe-//
+222,118943,2009-07-06 01:45:17,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: create_pics: created interface device for et-//
+223,118981,2009-07-06 01:56:43,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for pd-//
+224,118982,2009-07-06 01:56:43,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for pe-//
+225,118983,2009-07-06 01:56:43,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for gr-//
+226,118984,2009-07-06 01:56:43,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ip-//
+227,118985,2009-07-06 01:56:43,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for vt-//
+228,118986,2009-07-06 01:56:43,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for mt-//
+229,118987,2009-07-06 01:56:43,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for lt-//
+230,118988,2009-07-06 01:56:43,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ut-//
+231,118989,2009-07-06 01:56:43,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ud-//
+232,118990,2009-07-06 01:56:43,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for pd-//
+233,118991,2009-07-06 01:56:43,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for pe-//
+234,118992,2009-07-06 01:56:43,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for gr-//
+235,118993,2009-07-06 01:56:43,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ip-//
+236,118994,2009-07-06 01:56:43,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for vt-//
+237,118995,2009-07-06 01:56:43,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for mt-//
+238,118996,2009-07-06 01:56:43,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for lt-//
+239,118997,2009-07-06 01:56:43,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ut-//
+240,118998,2009-07-06 01:56:43,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ud-//
+241,118999,2009-07-06 01:56:43,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+242,119035,2009-07-06 02:00:56,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for pd-//
+243,119036,2009-07-06 02:00:56,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for pe-//
+244,119037,2009-07-06 02:00:56,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for gr-//
+245,119038,2009-07-06 02:00:56,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ip-//
+246,119039,2009-07-06 02:00:56,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for vt-//
+247,119040,2009-07-06 02:00:56,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for mt-//
+248,119041,2009-07-06 02:00:56,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for lt-//
+249,119042,2009-07-06 02:00:56,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ut-//
+250,119043,2009-07-06 02:00:56,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ud-//
+251,119044,2009-07-06 02:00:57,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for pd-//
+252,119045,2009-07-06 02:00:57,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for pe-//
+253,119046,2009-07-06 02:00:57,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for gr-//
+254,119047,2009-07-06 02:00:57,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ip-//
+255,119048,2009-07-06 02:00:57,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for vt-//
+256,119049,2009-07-06 02:00:57,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for mt-//
+257,119050,2009-07-06 02:00:57,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for lt-//
+258,119051,2009-07-06 02:00:57,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ut-//
+259,119052,2009-07-06 02:00:57,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ud-//
+260,119053,2009-07-06 02:00:57,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+261,119528,2009-07-06 07:26:28,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for pd-//
+262,119529,2009-07-06 07:26:28,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for pe-//
+263,119530,2009-07-06 07:26:28,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for gr-//
+264,119531,2009-07-06 07:26:28,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ip-//
+265,119532,2009-07-06 07:26:28,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for vt-//
+266,119533,2009-07-06 07:26:28,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for mt-//
+267,119534,2009-07-06 07:26:28,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for lt-//
+268,119535,2009-07-06 07:26:28,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ut-//
+269,119536,2009-07-06 07:26:28,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ud-//
+270,119537,2009-07-06 07:26:28,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for pd-//
+271,119538,2009-07-06 07:26:28,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for pe-//
+272,119539,2009-07-06 07:26:28,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for gr-//
+273,119540,2009-07-06 07:26:28,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ip-//
+274,119541,2009-07-06 07:26:28,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for vt-//
+275,119542,2009-07-06 07:26:28,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for mt-//
+276,119543,2009-07-06 07:26:28,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for lt-//
+277,119544,2009-07-06 07:26:28,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ut-//
+278,119545,2009-07-06 07:26:28,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ud-//
+279,119546,2009-07-06 07:26:28,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for pd-//
+280,119547,2009-07-06 07:26:28,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for pe-//
+281,119548,2009-07-06 07:26:28,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for gr-//
+282,119549,2009-07-06 07:26:28,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ip-//
+283,119550,2009-07-06 07:26:28,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for vt-//
+284,119551,2009-07-06 07:26:28,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for mt-//
+285,119552,2009-07-06 07:26:28,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for lt-//
+286,119553,2009-07-06 07:26:28,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ut-//
+287,119554,2009-07-06 07:26:28,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ud-//
+288,119555,2009-07-06 07:26:28,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for pd-//
+289,119556,2009-07-06 07:26:28,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for pe-//
+290,119557,2009-07-06 07:26:28,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for gr-//
+291,119558,2009-07-06 07:26:28,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ip-//
+292,119559,2009-07-06 07:26:28,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for vt-//
+293,119560,2009-07-06 07:26:28,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for mt-//
+294,119561,2009-07-06 07:26:28,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for lt-//
+295,119562,2009-07-06 07:26:28,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ut-//
+296,119563,2009-07-06 07:26:28,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ud-//
+297,119564,2009-07-06 07:26:28,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+298,120163,"""2009-07-06 13:47:07","rpd: %DAEMON-: bgp_bfd_callback:: NOTIFICATION sent to _IP__PORT (External AS ): code  (Cease) subcode  (Hard Reset), Reason: BFD Session Down"""
+299,123610,2009-07-08 07:47:52,chassisd[]: %DAEMON--LIBJSNMP_NS_LOG_ERR: ERR: snmpd: send_trap: Failure in sendto (Broken pipe)
+300,123612,2009-07-08 07:47:54,chassisd[]: %DAEMON--LIBJSNMP_NS_LOG_ERR: ERR: snmpd: send_trap: Failure in sendto (Broken pipe)
+301,123614,2009-07-08 07:47:58,chassisd[]: %DAEMON--LIBJSNMP_NS_LOG_ERR: ERR: snmpd: send_trap: Failure in sendto (Broken pipe)
+302,123616,2009-07-08 07:48:02,chassisd[]: %DAEMON-: XFCHIP[]: Secondary ic handle created successfully xfchip_pre_init
+303,123617,2009-07-08 07:48:02,chassisd[]: %DAEMON-: XFCHIP[]: Primary ic handle created successfully xfchip_pre_init
+304,123618,2009-07-08 07:48:03,chassisd[]: %DAEMON-: XFCHIP[]: Hostif registered successfully xfchip_pre_init
+305,123619,2009-07-08 07:48:03,chassisd[]: %DAEMON-: XFCHIP[]: Rcbusif registered successfully xfchip_pre_init
+306,123620,2009-07-08 07:48:03,chassisd[]: %DAEMON-: XFCHIP[]: Hostif pcie endpoint configured successfully during reconnect xfchip_pre_init
+307,123621,2009-07-08 07:48:03,chassisd[]: %DAEMON-: XFCHIP[]: PCIE handle created successfully xfchip_pre_init
+308,123622,2009-07-08 07:48:03,chassisd[]: %DAEMON-: XFCHIP[]: Initializing jspec module xfchip_pre_init
+309,123623,2009-07-08 07:48:03,chassisd[]: %DAEMON-: XFCHIP[]: jtad id read/check successful xfchip_pre_init: part num = _HEXNUM_
+310,123624,2009-07-08 07:48:03,chassisd[]: %DAEMON-: XFCHIP[]: Jspec registered successfully xfchip_pre_init
+311,123626,2009-07-08 07:48:03,chassisd[]: %DAEMON-: chan_count  num_chan
+312,123696,2009-07-08 07:48:03,chassisd[]: %DAEMON-: XFCHIP[]: Secondary ic handle created successfully xfchip_pre_init
+313,123697,2009-07-08 07:48:04,chassisd[]: %DAEMON-: XFCHIP[]: Primary ic handle created successfully xfchip_pre_init
+314,123698,2009-07-08 07:48:04,chassisd[]: %DAEMON-: XFCHIP[]: Hostif registered successfully xfchip_pre_init
+315,123699,2009-07-08 07:48:04,chassisd[]: %DAEMON-: XFCHIP[]: Rcbusif registered successfully xfchip_pre_init
+316,123700,2009-07-08 07:48:04,chassisd[]: %DAEMON-: XFCHIP[]: Hostif pcie endpoint configured successfully during reconnect xfchip_pre_init
+317,123701,2009-07-08 07:48:05,chassisd[]: %DAEMON-: chan_count  num_chan
+318,123703,2009-07-08 07:48:06,chassisd[]: %DAEMON-: XFCHIP[]: Secondary ic handle created successfully xfchip_pre_init
+319,123704,2009-07-08 07:48:12,chassisd[]: %DAEMON-: XFCHIP[]: Secondary ic handle created successfully xfchip_pre_init
+320,123705,2009-07-08 07:48:12,chassisd[]: %DAEMON-: XFCHIP[]: Primary ic handle created successfully xfchip_pre_init
+321,123706,2009-07-08 07:48:12,chassisd[]: %DAEMON-: XFCHIP[]: Hostif registered successfully xfchip_pre_init
+322,123707,2009-07-08 07:48:12,chassisd[]: %DAEMON-: XFCHIP[]: Rcbusif registered successfully xfchip_pre_init
+323,123708,2009-07-08 07:48:12,chassisd[]: %DAEMON-: XFCHIP[]: Hostif pcie endpoint configured successfully during reconnect xfchip_pre_init
+324,123709,2009-07-08 07:48:12,chassisd[]: %DAEMON-: XFCHIP[]: PCIE handle created successfully xfchip_pre_init
+325,123710,2009-07-08 07:48:12,chassisd[]: %DAEMON-: XFCHIP[]: jtad id read/check successful xfchip_pre_init: part num = _HEXNUM_
+326,123711,2009-07-08 07:48:12,chassisd[]: %DAEMON-: XFCHIP[]: Jspec registered successfully xfchip_pre_init
+327,123713,"""2009-07-08 07:48:14","chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: redundancy switchover (jnxRedundancyContentsIndex , jnxRedundancyLIndex , jnxRedundancyLIndex , jnxRedundancyLIndex , jnxRedundancyDescr Routing Engine , jnxRedundancyConfig , jnxRedundancyState , jnxRedundancySwitchoverCount , jnxRedundancySwitchoverTime , jnxRedundancySwitchoverReason )"""
+328,123714,2009-07-08 07:48:14,chassisd[]: %DAEMON--CHASSISD_SIGPIPE: SIGPIPE received
+329,123715,2009-07-08 07:48:14,chassisd[]: %DAEMON--LIBJSNMP_NS_LOG_INFO: INFO: ns_subagent_open_session: NET-SNMP version .. AgentX subagent Open-Sent!
+330,123717,"""2009-07-08 07:48:14","chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entStateOperEnabled (entPhysicalIndex , entStateAdmin , entStateAlarm )"""
+331,123718,"""2009-07-08 07:48:14","chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entStateOperEnabled (entPhysicalIndex , entStateAdmin , entStateAlarm )"""
+332,123720,"""2009-07-08 07:48:14","chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entStateOperEnabled (entPhysicalIndex , entStateAdmin , entStateAlarm )"""
+333,123721,"""2009-07-08 07:48:14","chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entStateOperEnabled (entPhysicalIndex , entStateAdmin , entStateAlarm )"""
+334,123723,"""2009-07-08 07:48:14","chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entStateOperEnabled (entPhysicalIndex , entStateAdmin , entStateAlarm )"""
+335,123724,"""2009-07-08 07:48:14","chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entStateOperEnabled (entPhysicalIndex , entStateAdmin , entStateAlarm )"""
+336,123726,"""2009-07-08 07:48:15","chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entStateOperEnabled (entPhysicalIndex , entStateAdmin , entStateAlarm )"""
+337,123727,"""2009-07-08 07:48:15","chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entStateOperEnabled (entPhysicalIndex , entStateAdmin , entStateAlarm )"""
+338,123730,"""2009-07-08 07:48:15","chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entStateOperEnabled (entPhysicalIndex , entStateAdmin , entStateAlarm )"""
+339,123731,"""2009-07-08 07:48:15","chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entStateOperEnabled (entPhysicalIndex , entStateAdmin , entStateAlarm )"""
+340,123733,"""2009-07-08 07:48:16","chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entStateOperEnabled (entPhysicalIndex , entStateAdmin , entStateAlarm )"""
+341,123734,"""2009-07-08 07:48:16","chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entStateOperEnabled (entPhysicalIndex , entStateAdmin , entStateAlarm )"""
+342,123737,"""2009-07-08 07:48:16","chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entStateOperEnabled (entPhysicalIndex , entStateAdmin , entStateAlarm )"""
+343,123738,"""2009-07-08 07:48:16","chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entStateOperEnabled (entPhysicalIndex , entStateAdmin , entStateAlarm )"""
+344,123745,2009-07-08 07:48:43,chassisd[]: %DAEMON--CHASSISD_SIGPIPE: SIGPIPE received
+345,123746,"""2009-07-08 07:48:44","chassisd[]: %DAEMON--CHASSISD_IFDEV_DETACH_PSEUDO: ifdev_detach(pseudo devices: porttype , sdev=, edev=)"""
+346,123747,2009-07-08 07:48:44,chassisd[]: %DAEMON--CHASSISD_RECONNECT_SUCCESSFUL: Successfully reconnected on soft restart
+347,123757,2009-07-08 07:48:44,chassisd[]: %DAEMON--CHASSISD_BLOWERS_SPEED_FULL: Fans and impellers being set to full speed [system warm]
+348,123758,"""2009-07-08 07:49:14","chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: Power Supply OK (jnxContentsContainerIndex , jnxContentsLIndex , jnxContentsLIndex , jnxContentsLIndex , jnxContentsDescr PEM , jnxOperatingState )"""
+349,123759,"""2009-07-08 07:49:14","chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: Power Supply OK (jnxContentsContainerIndex , jnxContentsLIndex , jnxContentsLIndex , jnxContentsLIndex , jnxContentsDescr PEM , jnxOperatingState )"""
+350,123760,"""2009-07-08 07:49:14","chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: Power Supply OK (jnxContentsContainerIndex , jnxContentsLIndex , jnxContentsLIndex , jnxContentsLIndex , jnxContentsDescr PEM , jnxOperatingState )"""
+351,123761,"""2009-07-08 07:49:14","chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: Power Supply OK (jnxContentsContainerIndex , jnxContentsLIndex , jnxContentsLIndex , jnxContentsLIndex , jnxContentsDescr PEM , jnxOperatingState )"""
+352,123842,2009-07-08 10:40:37,ifinfo: %USER--IFINFO_IFD_NAME: IFD: descr
+353,123937,2009-07-08 12:24:47,ifinfo: %USER--IFINFO_IFD_NAME: IFD: desc
+354,123941,2009-07-08 12:24:59,ifinfo: %USER--IFINFO_IFD_NAME: IFD: ae
+355,124301,"""2009-07-08 21:49:15","chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entStateOperDisabled (entPhysicalIndex , entStateAdmin , entStateAlarm )"""
+356,124302,2009-07-08 21:49:15,chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entConfigChanged
+357,124319,"""2009-07-08 22:21:33","chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entStateOperEnabled (entPhysicalIndex , entStateAdmin , entStateAlarm )"""
+358,124320,2009-07-08 22:21:33,chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entConfigChanged
+359,124367,2009-07-08 23:08:07,ifinfo: %USER--IFINFO_IFD_NAME: IFD: desc
+360,126386,2009-07-11 10:35:48,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+361,126454,2009-07-11 10:38:03,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+362,127452,2009-07-12 12:19:11,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+363,128056,2009-07-13 02:32:21,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+364,128062,"""2009-07-13 02:39:41","chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entStateOperDisabled (entPhysicalIndex , entStateAdmin , entStateAlarm )"""
+365,128063,2009-07-13 02:39:41,chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entConfigChanged
+366,128068,"""2009-07-13 02:43:36","chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entStateOperEnabled (entPhysicalIndex , entStateAdmin , entStateAlarm )"""
+367,128069,2009-07-13 02:43:36,chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entConfigChanged
+368,128121,"""2009-07-13 03:31:55","chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entStateOperDisabled (entPhysicalIndex , entStateAdmin , entStateAlarm )"""
+369,128122,2009-07-13 03:31:55,chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entConfigChanged
+370,128124,"""2009-07-13 03:34:47","chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entStateOperEnabled (entPhysicalIndex , entStateAdmin , entStateAlarm )"""
+371,128125,2009-07-13 03:34:47,chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entConfigChanged
+372,128204,2009-07-13 03:41:43,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+373,128205,2009-07-13 03:44:05,ifinfo: %USER--IFINFO_IFD_NAME: IFD: description
+374,128261,2009-07-13 04:03:06,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+375,128263,"""2009-07-13 04:04:07","chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entStateOperDisabled (entPhysicalIndex , entStateAdmin , entStateAlarm )"""
+376,128264,2009-07-13 04:04:07,chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entConfigChanged
+377,128268,"""2009-07-13 04:07:01","chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entStateOperEnabled (entPhysicalIndex , entStateAdmin , entStateAlarm )"""
+378,128269,2009-07-13 04:07:01,chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entConfigChanged
+379,128343,2009-07-13 04:09:12,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+380,131106,2009-07-16 15:42:17,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+381,132376,2009-07-18 10:02:30,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+382,132471,2009-07-18 10:22:18,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+383,132885,2009-07-18 21:37:16,chassisd[]: %DAEMON--CHASSISD_HOST_TEMP_READ: Error reading host temperature sensor
+384,132886,2009-07-18 21:37:16,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+385,133397,2009-07-19 12:02:19,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+386,134577,2009-07-20 21:35:12,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+387,134962,2009-07-21 08:47:15,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+388,136040,2009-07-22 17:24:51,ifinfo: %USER--IFINFO_IFD_NAME: IFD: diagnostics
+389,136057,2009-07-22 17:41:38,ifinfo: %USER--IFINFO_IFD_NAME: IFD: desc
+390,136060,2009-07-22 17:42:09,ifinfo: %USER--IFINFO_IFD_NAME: IFD: diag
+391,139366,2009-07-26 10:57:32,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+392,139440,2009-07-26 10:58:06,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+393,139534,2009-07-26 12:13:49,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+394,139710,2009-07-26 15:16:41,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+395,139785,2009-07-26 15:17:20,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+396,141042,2009-07-28 08:07:40,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+397,141317,2009-07-28 14:33:40,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+398,141388,2009-07-28 14:36:05,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+399,141450,2009-07-28 14:56:53,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+400,141533,2009-07-28 15:19:08,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+401,144662,2009-08-01 10:36:43,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+402,144818,2009-08-01 11:54:13,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+403,145133,2009-08-01 18:54:16,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+404,145192,2009-08-01 19:41:50,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+405,145302,2009-08-01 21:34:59,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+406,146672,2009-08-03 08:57:58,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+407,146905,2009-08-03 14:29:44,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+408,147525,2009-08-04 12:43:45,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+409,147637,2009-08-04 14:39:47,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+410,149013,2009-08-06 02:51:47,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+411,149481,2009-08-06 13:39:30,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+412,149616,2009-08-06 15:17:33,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+413,151884,2009-08-09 11:18:47,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+414,153091,2009-08-10 21:42:03,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+415,153598,2009-08-11 11:02:55,chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration

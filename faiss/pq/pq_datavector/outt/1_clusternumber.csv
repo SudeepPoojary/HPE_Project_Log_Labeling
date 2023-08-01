@@ -1,0 +1,7 @@
+,log_no,date,time
+0,878,"""2009-05-14 10:29:28","rpd: %DAEMON-: bgp_pp_recv:: NOTIFICATION sent to _IP__PORT (proto): code  (Cease) subcode  (Connection Collision Resolution), Reason: dropping _IP__PORT (proto), connection collision prefers _IP__PORT (External AS )"""
+1,13739,"""2009-05-14 10:29:28","rpd: %DAEMON-: bgp_pp_recv:: NOTIFICATION sent to _IP__PORT (proto): code  (Cease) subcode  (Connection Collision Resolution), Reason: dropping _IP__PORT (proto), connection collision prefers _IP__PORT (External AS )"""
+2,71538,"""2009-06-13 06:27:47","rpd: %DAEMON-: bgp_pp_recv:: NOTIFICATION sent to _IP__PORT (proto): code  (Cease) subcode  (Connection Collision Resolution), Reason: dropping _IP__PORT (proto), connection collision prefers _IP__PORT (External AS )"""
+3,87568,"""2009-06-21 00:59:34","rpd: %DAEMON-: bgp_pp_recv:: NOTIFICATION sent to _IP__PORT (proto): code  (Cease) subcode  (Connection Collision Resolution), Reason: dropping _IP__PORT (proto), connection collision prefers _IP__PORT (External AS )"""
+4,102778,"""2009-06-28 12:36:34","rpd: %DAEMON-: bgp_pp_recv:: NOTIFICATION sent to _IP__PORT (proto): code  (Cease) subcode  (Connection Collision Resolution), Reason: dropping _IP__PORT (proto), connection collision prefers _IP__PORT (External AS )"""
+5,108475,"""2009-07-01 02:20:20","rpd: %DAEMON-: bgp_pp_recv:: NOTIFICATION sent to _IP__PORT (proto): code  (Cease) subcode  (Connection Collision Resolution), Reason: dropping _IP__PORT (proto), connection collision prefers _IP__PORT (External AS )"""

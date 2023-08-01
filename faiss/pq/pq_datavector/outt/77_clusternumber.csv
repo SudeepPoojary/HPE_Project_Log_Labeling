@@ -1,0 +1,86 @@
+,log_no,date,time
+0,118594,2009-07-06 01:42:33,chassisd[]: %DAEMON--HSL: Primitive bringup finished CBF-chan-tx-
+1,118596,2009-07-06 01:42:33,chassisd[]: %DAEMON--HSL: Primitive bringup Started Training on TX CBF-chan-tx-
+2,118601,2009-07-06 01:42:33,chassisd[]: %DAEMON--HSL: Primitive bringup finished CBF-chan-tx-
+3,118603,2009-07-06 01:42:33,chassisd[]: %DAEMON--HSL: Primitive bringup Started Training on TX CBF-chan-tx-
+4,118608,2009-07-06 01:42:33,chassisd[]: %DAEMON--HSL: Primitive bringup finished CBF-chan-tx-
+5,118610,2009-07-06 01:42:33,chassisd[]: %DAEMON--HSL: Primitive bringup Started Training on TX CBF-chan-tx-
+6,118615,2009-07-06 01:42:33,chassisd[]: %DAEMON--HSL: Primitive bringup finished CBF-chan-tx-
+7,118617,2009-07-06 01:42:33,chassisd[]: %DAEMON--HSL: Primitive bringup Started Training on TX CBF-chan-tx-
+8,118622,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished CBF-chan-tx-
+9,118624,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive bringup Started Training on TX CBF-chan-tx-
+10,118629,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished CBF-chan-tx-
+11,118631,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive bringup Started Training on TX CBF-chan-tx-
+12,118636,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished CBF-chan-tx-
+13,118638,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive bringup Started Training on TX CBF-chan-tx-
+14,118643,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished CBF-chan-tx-
+15,118645,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive bringup Started Training on TX CBF-chan-tx-
+16,118650,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished CBF-chan-tx-
+17,118652,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive bringup Started Training on TX CBF-chan-tx-
+18,118657,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished CBF-chan-tx-
+19,118659,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive bringup Started Training on TX CBF-chan-tx-
+20,118664,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished CBF-chan-tx-
+21,118666,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive bringup Started Training on TX CBF-chan-tx-
+22,118671,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished CBF-chan-tx-
+23,118673,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive bringup Started Training on TX CBF-chan-tx-
+24,118676,2009-07-06 01:42:38,chassisd[]: %DAEMON--HSL: Primitive bringup issued start_command on TX CBF-chan-tx-
+25,118677,2009-07-06 01:42:38,chassisd[]: %DAEMON--HSL: Primitive bringup enables TX CBF-chan-tx-
+26,118678,2009-07-06 01:42:38,chassisd[]: %DAEMON--HSL: Primitive bringup issued start_command on TX CBF-chan-tx-
+27,118679,2009-07-06 01:42:38,chassisd[]: %DAEMON--HSL: Primitive bringup enables TX CBF-chan-tx-
+28,118680,2009-07-06 01:42:38,chassisd[]: %DAEMON--HSL: Primitive bringup issued start_command on TX CBF-chan-tx-
+29,118681,2009-07-06 01:42:38,chassisd[]: %DAEMON--HSL: Primitive bringup enables TX CBF-chan-tx-
+30,118682,2009-07-06 01:42:38,chassisd[]: %DAEMON--HSL: Primitive bringup issued start_command on TX CBF-chan-tx-
+31,118683,2009-07-06 01:42:38,chassisd[]: %DAEMON--HSL: Primitive bringup enables TX CBF-chan-tx-
+32,118684,2009-07-06 01:42:38,chassisd[]: %DAEMON--HSL: Primitive bringup issued start_command on TX CBF-chan-tx-
+33,118685,2009-07-06 01:42:38,chassisd[]: %DAEMON--HSL: Primitive bringup enables TX CBF-chan-tx-
+34,118686,2009-07-06 01:42:38,chassisd[]: %DAEMON--HSL: Primitive bringup issued start_command on TX CBF-chan-tx-
+35,118687,2009-07-06 01:42:38,chassisd[]: %DAEMON--HSL: Primitive bringup enables TX CBF-chan-tx-
+36,118688,2009-07-06 01:42:38,chassisd[]: %DAEMON--HSL: Primitive bringup issued start_command on TX CBF-chan-tx-
+37,118689,2009-07-06 01:42:38,chassisd[]: %DAEMON--HSL: Primitive bringup enables TX CBF-chan-tx-
+38,118690,2009-07-06 01:42:38,chassisd[]: %DAEMON--HSL: Primitive bringup issued start_command on TX CBF-chan-tx-
+39,118691,2009-07-06 01:42:38,chassisd[]: %DAEMON--HSL: Primitive bringup enables TX CBF-chan-tx-
+40,118692,2009-07-06 01:42:38,chassisd[]: %DAEMON--HSL: Primitive bringup issued start_command on TX CBF-chan-tx-
+41,118693,2009-07-06 01:42:38,chassisd[]: %DAEMON--HSL: Primitive bringup enables TX CBF-chan-tx-
+42,118694,2009-07-06 01:42:38,chassisd[]: %DAEMON--HSL: Primitive bringup issued start_command on TX CBF-chan-tx-
+43,118827,2009-07-06 01:44:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished CBF-chan-tx-
+44,118829,2009-07-06 01:44:34,chassisd[]: %DAEMON--HSL: Primitive bringup Started Training on TX CBF-chan-tx-
+45,118834,2009-07-06 01:44:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished CBF-chan-tx-
+46,118836,2009-07-06 01:44:34,chassisd[]: %DAEMON--HSL: Primitive bringup Started Training on TX CBF-chan-tx-
+47,118841,2009-07-06 01:44:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished CBF-chan-tx-
+48,118843,2009-07-06 01:44:34,chassisd[]: %DAEMON--HSL: Primitive bringup Started Training on TX CBF-chan-tx-
+49,118848,2009-07-06 01:44:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished CBF-chan-tx-
+50,118850,2009-07-06 01:44:34,chassisd[]: %DAEMON--HSL: Primitive bringup Started Training on TX CBF-chan-tx-
+51,118855,2009-07-06 01:44:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished CBF-chan-tx-
+52,118860,2009-07-06 01:44:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished CBF-chan-tx-
+53,118862,2009-07-06 01:44:34,chassisd[]: %DAEMON--HSL: Primitive bringup Started Training on TX CBF-chan-tx-
+54,118867,2009-07-06 01:44:35,chassisd[]: %DAEMON--HSL: Primitive bringup finished CBF-chan-tx-
+55,118869,2009-07-06 01:44:35,chassisd[]: %DAEMON--HSL: Primitive bringup Started Training on TX CBF-chan-tx-
+56,118874,2009-07-06 01:44:35,chassisd[]: %DAEMON--HSL: Primitive bringup finished CBF-chan-tx-
+57,118876,2009-07-06 01:44:35,chassisd[]: %DAEMON--HSL: Primitive bringup Started Training on TX CBF-chan-tx-
+58,118881,2009-07-06 01:44:35,chassisd[]: %DAEMON--HSL: Primitive bringup finished CBF-chan-tx-
+59,118883,2009-07-06 01:44:35,chassisd[]: %DAEMON--HSL: Primitive bringup Started Training on TX CBF-chan-tx-
+60,118888,2009-07-06 01:44:35,chassisd[]: %DAEMON--HSL: Primitive bringup finished CBF-chan-tx-
+61,118890,2009-07-06 01:44:35,chassisd[]: %DAEMON--HSL: Primitive bringup Started Training on TX CBF-chan-tx-
+62,118895,2009-07-06 01:44:35,chassisd[]: %DAEMON--HSL: Primitive bringup finished CBF-chan-tx-
+63,118897,2009-07-06 01:44:35,chassisd[]: %DAEMON--HSL: Primitive bringup Started Training on TX CBF-chan-tx-
+64,118902,2009-07-06 01:44:35,chassisd[]: %DAEMON--HSL: Primitive bringup finished CBF-chan-tx-
+65,118904,2009-07-06 01:44:35,chassisd[]: %DAEMON--HSL: Primitive bringup Started Training on TX CBF-chan-tx-
+66,118909,2009-07-06 01:44:39,chassisd[]: %DAEMON--HSL: Primitive bringup issued start_command on TX CBF-chan-tx-
+67,118910,2009-07-06 01:44:39,chassisd[]: %DAEMON--HSL: Primitive bringup enables TX CBF-chan-tx-
+68,118911,2009-07-06 01:44:39,chassisd[]: %DAEMON--HSL: Primitive bringup issued start_command on TX CBF-chan-tx-
+69,118912,2009-07-06 01:44:39,chassisd[]: %DAEMON--HSL: Primitive bringup enables TX CBF-chan-tx-
+70,118913,2009-07-06 01:44:39,chassisd[]: %DAEMON--HSL: Primitive bringup issued start_command on TX CBF-chan-tx-
+71,118914,2009-07-06 01:44:39,chassisd[]: %DAEMON--HSL: Primitive bringup enables TX CBF-chan-tx-
+72,118915,2009-07-06 01:44:39,chassisd[]: %DAEMON--HSL: Primitive bringup issued start_command on TX CBF-chan-tx-
+73,118916,2009-07-06 01:44:39,chassisd[]: %DAEMON--HSL: Primitive bringup enables TX CBF-chan-tx-
+74,118917,2009-07-06 01:44:39,chassisd[]: %DAEMON--HSL: Primitive bringup issued start_command on TX CBF-chan-tx-
+75,118918,2009-07-06 01:44:39,chassisd[]: %DAEMON--HSL: Primitive bringup enables TX CBF-chan-tx-
+76,118919,2009-07-06 01:44:39,chassisd[]: %DAEMON--HSL: Primitive bringup issued start_command on TX CBF-chan-tx-
+77,118920,2009-07-06 01:44:39,chassisd[]: %DAEMON--HSL: Primitive bringup enables TX CBF-chan-tx-
+78,118921,2009-07-06 01:44:39,chassisd[]: %DAEMON--HSL: Primitive bringup issued start_command on TX CBF-chan-tx-
+79,118922,2009-07-06 01:44:39,chassisd[]: %DAEMON--HSL: Primitive bringup enables TX CBF-chan-tx-
+80,118923,2009-07-06 01:44:39,chassisd[]: %DAEMON--HSL: Primitive bringup issued start_command on TX CBF-chan-tx-
+81,118924,2009-07-06 01:44:39,chassisd[]: %DAEMON--HSL: Primitive bringup enables TX CBF-chan-tx-
+82,118925,2009-07-06 01:44:39,chassisd[]: %DAEMON--HSL: Primitive bringup issued start_command on TX CBF-chan-tx-
+83,118926,2009-07-06 01:44:39,chassisd[]: %DAEMON--HSL: Primitive bringup enables TX CBF-chan-tx-
+84,118927,2009-07-06 01:44:39,chassisd[]: %DAEMON--HSL: Primitive bringup issued start_command on TX CBF-chan-tx-

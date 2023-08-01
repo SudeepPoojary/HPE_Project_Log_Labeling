@@ -1,0 +1,161 @@
+,log_no,date,time
+0,44125,2009-05-30 19:43:03,chassisd[]: %DAEMON--CHASSISD_HOST_TEMP_READ: Error reading host temperature sensor
+1,58692,2009-06-06 10:34:42,chassisd[]: %DAEMON--CHASSISD_HOST_TEMP_READ: Error reading host temperature sensor
+2,118397,2009-07-06 00:38:24,chassisd[]: %DAEMON--CHASSISD_BLOWERS_SPEED: Fans and impellers are now running at normal speed
+3,118405,2009-07-06 00:42:06,chassisd[]: %DAEMON--CHASSISD_BLOWERS_SPEED_FULL: Fans and impellers being set to full speed [system warm]
+4,118481,"""2009-07-06 01:41:10","chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entStateOperEnabled (entPhysicalIndex , entStateAdmin , entStateAlarm )"""
+5,118482,"""2009-07-06 01:41:10","chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entStateOperEnabled (entPhysicalIndex , entStateAdmin , entStateAlarm )"""
+6,118483,2009-07-06 01:41:10,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for lc-//
+7,118484,2009-07-06 01:41:10,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for lc-//
+8,118485,2009-07-06 01:41:10,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for pfh-//
+9,118486,2009-07-06 01:41:10,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for pfe-//
+10,118487,2009-07-06 01:41:10,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for pfe-//
+11,118696,"""2009-07-06 01:42:40","chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entStateOperEnabled (entPhysicalIndex , entStateAdmin , entStateAlarm )"""
+12,118697,2009-07-06 01:42:40,chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entConfigChanged
+13,118699,"""2009-07-06 01:42:40","chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entStateOperEnabled (entPhysicalIndex , entStateAdmin , entStateAlarm )"""
+14,118701,"""2009-07-06 01:42:40","chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entStateOperEnabled (entPhysicalIndex , entStateAdmin , entStateAlarm )"""
+15,118703,"""2009-07-06 01:42:40","chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entStateOperEnabled (entPhysicalIndex , entStateAdmin , entStateAlarm )"""
+16,118704,2009-07-06 01:42:45,chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entConfigChanged
+17,118707,2009-07-06 01:42:58,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: create_pics: created interface device for xe-//
+18,118708,2009-07-06 01:42:58,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: create_pics: created interface device for xe-//
+19,118710,"""2009-07-06 01:43:11","chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entStateOperEnabled (entPhysicalIndex , entStateAdmin , entStateAlarm )"""
+20,118711,"""2009-07-06 01:43:11","chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entStateOperEnabled (entPhysicalIndex , entStateAdmin , entStateAlarm )"""
+21,118712,2009-07-06 01:43:11,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for lc-//
+22,118713,2009-07-06 01:43:11,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for lc-//
+23,118714,2009-07-06 01:43:11,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for pfh-//
+24,118715,2009-07-06 01:43:11,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for pfe-//
+25,118716,2009-07-06 01:43:11,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for pfe-//
+26,118821,2009-07-06 01:43:15,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: create_pics: created interface device for et-//
+27,118822,2009-07-06 01:43:15,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: create_pics: created interface device for xe-//
+28,118823,2009-07-06 01:43:15,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: create_pics: created interface device for xe-//
+29,118824,2009-07-06 01:43:16,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: create_pics: created interface device for et-//
+30,118929,"""2009-07-06 01:44:41","chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entStateOperEnabled (entPhysicalIndex , entStateAdmin , entStateAlarm )"""
+31,118930,2009-07-06 01:44:41,chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entConfigChanged
+32,118932,"""2009-07-06 01:44:41","chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entStateOperEnabled (entPhysicalIndex , entStateAdmin , entStateAlarm )"""
+33,118934,"""2009-07-06 01:44:41","chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entStateOperEnabled (entPhysicalIndex , entStateAdmin , entStateAlarm )"""
+34,118936,"""2009-07-06 01:44:41","chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entStateOperEnabled (entPhysicalIndex , entStateAdmin , entStateAlarm )"""
+35,118937,2009-07-06 01:44:46,chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entConfigChanged
+36,118938,2009-07-06 01:44:59,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: create_pics: created interface device for xe-//
+37,118939,2009-07-06 01:44:59,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: create_pics: created interface device for xe-//
+38,118940,2009-07-06 01:45:16,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: create_pics: created interface device for et-//
+39,118941,2009-07-06 01:45:16,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: create_pics: created interface device for xe-//
+40,118942,2009-07-06 01:45:16,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: create_pics: created interface device for xe-//
+41,118943,2009-07-06 01:45:17,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: create_pics: created interface device for et-//
+42,118981,2009-07-06 01:56:43,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for pd-//
+43,118982,2009-07-06 01:56:43,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for pe-//
+44,118983,2009-07-06 01:56:43,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for gr-//
+45,118984,2009-07-06 01:56:43,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ip-//
+46,118985,2009-07-06 01:56:43,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for vt-//
+47,118986,2009-07-06 01:56:43,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for mt-//
+48,118987,2009-07-06 01:56:43,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for lt-//
+49,118988,2009-07-06 01:56:43,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ut-//
+50,118989,2009-07-06 01:56:43,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ud-//
+51,118990,2009-07-06 01:56:43,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for pd-//
+52,118991,2009-07-06 01:56:43,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for pe-//
+53,118992,2009-07-06 01:56:43,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for gr-//
+54,118993,2009-07-06 01:56:43,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ip-//
+55,118994,2009-07-06 01:56:43,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for vt-//
+56,118995,2009-07-06 01:56:43,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for mt-//
+57,118996,2009-07-06 01:56:43,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for lt-//
+58,118997,2009-07-06 01:56:43,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ut-//
+59,118998,2009-07-06 01:56:43,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ud-//
+60,119035,2009-07-06 02:00:56,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for pd-//
+61,119036,2009-07-06 02:00:56,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for pe-//
+62,119037,2009-07-06 02:00:56,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for gr-//
+63,119038,2009-07-06 02:00:56,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ip-//
+64,119039,2009-07-06 02:00:56,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for vt-//
+65,119040,2009-07-06 02:00:56,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for mt-//
+66,119041,2009-07-06 02:00:56,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for lt-//
+67,119042,2009-07-06 02:00:56,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ut-//
+68,119043,2009-07-06 02:00:56,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ud-//
+69,119044,2009-07-06 02:00:57,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for pd-//
+70,119045,2009-07-06 02:00:57,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for pe-//
+71,119046,2009-07-06 02:00:57,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for gr-//
+72,119047,2009-07-06 02:00:57,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ip-//
+73,119048,2009-07-06 02:00:57,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for vt-//
+74,119049,2009-07-06 02:00:57,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for mt-//
+75,119050,2009-07-06 02:00:57,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for lt-//
+76,119051,2009-07-06 02:00:57,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ut-//
+77,119052,2009-07-06 02:00:57,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ud-//
+78,119528,2009-07-06 07:26:28,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for pd-//
+79,119529,2009-07-06 07:26:28,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for pe-//
+80,119530,2009-07-06 07:26:28,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for gr-//
+81,119531,2009-07-06 07:26:28,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ip-//
+82,119532,2009-07-06 07:26:28,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for vt-//
+83,119533,2009-07-06 07:26:28,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for mt-//
+84,119534,2009-07-06 07:26:28,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for lt-//
+85,119535,2009-07-06 07:26:28,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ut-//
+86,119536,2009-07-06 07:26:28,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ud-//
+87,119537,2009-07-06 07:26:28,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for pd-//
+88,119538,2009-07-06 07:26:28,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for pe-//
+89,119539,2009-07-06 07:26:28,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for gr-//
+90,119540,2009-07-06 07:26:28,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ip-//
+91,119541,2009-07-06 07:26:28,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for vt-//
+92,119542,2009-07-06 07:26:28,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for mt-//
+93,119543,2009-07-06 07:26:28,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for lt-//
+94,119544,2009-07-06 07:26:28,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ut-//
+95,119545,2009-07-06 07:26:28,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ud-//
+96,119546,2009-07-06 07:26:28,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for pd-//
+97,119547,2009-07-06 07:26:28,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for pe-//
+98,119548,2009-07-06 07:26:28,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for gr-//
+99,119549,2009-07-06 07:26:28,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ip-//
+100,119550,2009-07-06 07:26:28,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for vt-//
+101,119551,2009-07-06 07:26:28,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for mt-//
+102,119552,2009-07-06 07:26:28,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for lt-//
+103,119553,2009-07-06 07:26:28,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ut-//
+104,119554,2009-07-06 07:26:28,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ud-//
+105,119555,2009-07-06 07:26:28,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for pd-//
+106,119556,2009-07-06 07:26:28,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for pe-//
+107,119557,2009-07-06 07:26:28,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for gr-//
+108,119558,2009-07-06 07:26:28,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ip-//
+109,119559,2009-07-06 07:26:28,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for vt-//
+110,119560,2009-07-06 07:26:28,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for mt-//
+111,119561,2009-07-06 07:26:28,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for lt-//
+112,119562,2009-07-06 07:26:28,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ut-//
+113,119563,2009-07-06 07:26:28,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ud-//
+114,123610,2009-07-08 07:47:52,chassisd[]: %DAEMON--LIBJSNMP_NS_LOG_ERR: ERR: snmpd: send_trap: Failure in sendto (Broken pipe)
+115,123612,2009-07-08 07:47:54,chassisd[]: %DAEMON--LIBJSNMP_NS_LOG_ERR: ERR: snmpd: send_trap: Failure in sendto (Broken pipe)
+116,123614,2009-07-08 07:47:58,chassisd[]: %DAEMON--LIBJSNMP_NS_LOG_ERR: ERR: snmpd: send_trap: Failure in sendto (Broken pipe)
+117,123626,2009-07-08 07:48:03,chassisd[]: %DAEMON-: chan_count  num_chan
+118,123701,2009-07-08 07:48:05,chassisd[]: %DAEMON-: chan_count  num_chan
+119,123713,"""2009-07-08 07:48:14","chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: redundancy switchover (jnxRedundancyContentsIndex , jnxRedundancyLIndex , jnxRedundancyLIndex , jnxRedundancyLIndex , jnxRedundancyDescr Routing Engine , jnxRedundancyConfig , jnxRedundancyState , jnxRedundancySwitchoverCount , jnxRedundancySwitchoverTime , jnxRedundancySwitchoverReason )"""
+120,123714,2009-07-08 07:48:14,chassisd[]: %DAEMON--CHASSISD_SIGPIPE: SIGPIPE received
+121,123715,2009-07-08 07:48:14,chassisd[]: %DAEMON--LIBJSNMP_NS_LOG_INFO: INFO: ns_subagent_open_session: NET-SNMP version .. AgentX subagent Open-Sent!
+122,123717,"""2009-07-08 07:48:14","chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entStateOperEnabled (entPhysicalIndex , entStateAdmin , entStateAlarm )"""
+123,123718,"""2009-07-08 07:48:14","chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entStateOperEnabled (entPhysicalIndex , entStateAdmin , entStateAlarm )"""
+124,123720,"""2009-07-08 07:48:14","chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entStateOperEnabled (entPhysicalIndex , entStateAdmin , entStateAlarm )"""
+125,123721,"""2009-07-08 07:48:14","chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entStateOperEnabled (entPhysicalIndex , entStateAdmin , entStateAlarm )"""
+126,123723,"""2009-07-08 07:48:14","chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entStateOperEnabled (entPhysicalIndex , entStateAdmin , entStateAlarm )"""
+127,123724,"""2009-07-08 07:48:14","chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entStateOperEnabled (entPhysicalIndex , entStateAdmin , entStateAlarm )"""
+128,123726,"""2009-07-08 07:48:15","chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entStateOperEnabled (entPhysicalIndex , entStateAdmin , entStateAlarm )"""
+129,123727,"""2009-07-08 07:48:15","chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entStateOperEnabled (entPhysicalIndex , entStateAdmin , entStateAlarm )"""
+130,123730,"""2009-07-08 07:48:15","chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entStateOperEnabled (entPhysicalIndex , entStateAdmin , entStateAlarm )"""
+131,123731,"""2009-07-08 07:48:15","chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entStateOperEnabled (entPhysicalIndex , entStateAdmin , entStateAlarm )"""
+132,123733,"""2009-07-08 07:48:16","chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entStateOperEnabled (entPhysicalIndex , entStateAdmin , entStateAlarm )"""
+133,123734,"""2009-07-08 07:48:16","chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entStateOperEnabled (entPhysicalIndex , entStateAdmin , entStateAlarm )"""
+134,123737,"""2009-07-08 07:48:16","chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entStateOperEnabled (entPhysicalIndex , entStateAdmin , entStateAlarm )"""
+135,123738,"""2009-07-08 07:48:16","chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entStateOperEnabled (entPhysicalIndex , entStateAdmin , entStateAlarm )"""
+136,123745,2009-07-08 07:48:43,chassisd[]: %DAEMON--CHASSISD_SIGPIPE: SIGPIPE received
+137,123746,"""2009-07-08 07:48:44","chassisd[]: %DAEMON--CHASSISD_IFDEV_DETACH_PSEUDO: ifdev_detach(pseudo devices: porttype , sdev=, edev=)"""
+138,123757,2009-07-08 07:48:44,chassisd[]: %DAEMON--CHASSISD_BLOWERS_SPEED_FULL: Fans and impellers being set to full speed [system warm]
+139,123758,"""2009-07-08 07:49:14","chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: Power Supply OK (jnxContentsContainerIndex , jnxContentsLIndex , jnxContentsLIndex , jnxContentsLIndex , jnxContentsDescr PEM , jnxOperatingState )"""
+140,123759,"""2009-07-08 07:49:14","chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: Power Supply OK (jnxContentsContainerIndex , jnxContentsLIndex , jnxContentsLIndex , jnxContentsLIndex , jnxContentsDescr PEM , jnxOperatingState )"""
+141,123760,"""2009-07-08 07:49:14","chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: Power Supply OK (jnxContentsContainerIndex , jnxContentsLIndex , jnxContentsLIndex , jnxContentsLIndex , jnxContentsDescr PEM , jnxOperatingState )"""
+142,123761,"""2009-07-08 07:49:14","chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: Power Supply OK (jnxContentsContainerIndex , jnxContentsLIndex , jnxContentsLIndex , jnxContentsLIndex , jnxContentsDescr PEM , jnxOperatingState )"""
+143,124301,"""2009-07-08 21:49:15","chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entStateOperDisabled (entPhysicalIndex , entStateAdmin , entStateAlarm )"""
+144,124302,2009-07-08 21:49:15,chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entConfigChanged
+145,124319,"""2009-07-08 22:21:33","chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entStateOperEnabled (entPhysicalIndex , entStateAdmin , entStateAlarm )"""
+146,124320,2009-07-08 22:21:33,chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entConfigChanged
+147,128062,"""2009-07-13 02:39:41","chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entStateOperDisabled (entPhysicalIndex , entStateAdmin , entStateAlarm )"""
+148,128063,2009-07-13 02:39:41,chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entConfigChanged
+149,128068,"""2009-07-13 02:43:36","chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entStateOperEnabled (entPhysicalIndex , entStateAdmin , entStateAlarm )"""
+150,128069,2009-07-13 02:43:36,chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entConfigChanged
+151,128121,"""2009-07-13 03:31:55","chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entStateOperDisabled (entPhysicalIndex , entStateAdmin , entStateAlarm )"""
+152,128122,2009-07-13 03:31:55,chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entConfigChanged
+153,128124,"""2009-07-13 03:34:47","chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entStateOperEnabled (entPhysicalIndex , entStateAdmin , entStateAlarm )"""
+154,128125,2009-07-13 03:34:47,chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entConfigChanged
+155,128263,"""2009-07-13 04:04:07","chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entStateOperDisabled (entPhysicalIndex , entStateAdmin , entStateAlarm )"""
+156,128264,2009-07-13 04:04:07,chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entConfigChanged
+157,128268,"""2009-07-13 04:07:01","chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entStateOperEnabled (entPhysicalIndex , entStateAdmin , entStateAlarm )"""
+158,128269,2009-07-13 04:07:01,chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entConfigChanged
+159,132885,2009-07-18 21:37:16,chassisd[]: %DAEMON--CHASSISD_HOST_TEMP_READ: Error reading host temperature sensor
